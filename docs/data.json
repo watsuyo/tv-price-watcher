@@ -1,405 +1,1362 @@
 {
- "updatedAt": "2026-06-13T01:50:47.292Z",
+ "updatedAt": "2026-06-13T02:32:04.702Z",
  "products": {
   "OLED55B5PJA": {
    "model": "OLED55B5PJA",
    "brand": "LG",
    "title": "LG 55インチ 有機ELテレビ OLED55B5PJA AI OLED 4Kチューナー内蔵 Dolby Vision® 120Hz ゲーム対応 Alexa 壁掛け スマートテレビ",
-   "url": "https://www.amazon.co.jp/LG-OLED55B5PJA-4K%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-FILMMAKER-2025%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B0FRFQG5SG",
    "history": [
     {
      "t": "2026-06-13T01:47:33.699Z",
-     "p": 139800
+     "a": 139800
     },
     {
      "t": "2026-06-13T01:50:10.752Z",
-     "p": 139800
+     "a": 139800
     },
     {
      "t": "2026-06-13T01:50:47.292Z",
-     "p": 139800
+     "a": 139800
+    },
+    {
+     "t": "2026-06-13T01:55:57.265Z",
+     "a": 139800,
+     "k": null,
+     "r": null
+    },
+    {
+     "t": "2026-06-13T02:17:45.185Z",
+     "a": 139800,
+     "k": null,
+     "r": null,
+     "q": 159800
+    },
+    {
+     "t": "2026-06-13T02:24:50.843Z",
+     "a": 139800,
+     "k": null,
+     "r": null,
+     "q": 159800
+    },
+    {
+     "t": "2026-06-13T02:32:04.702Z",
+     "a": 139800,
+     "k": null,
+     "r": 159800,
+     "q": 159800
     }
-   ]
+   ],
+   "urls": {
+    "a": "https://www.amazon.co.jp/LG-OLED55B5PJA-4K%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-FILMMAKER-2025%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B0FRFQG5SG",
+    "k": null,
+    "r": "https://item.rakuten.co.jp/d-shop1one/4989027030084/",
+    "q": "https://www.qoo10.jp/s/?keyword=OLED55B5PJA"
+   }
   },
   "4T-C55EQ1": {
    "model": "4T-C55EQ1",
    "brand": "シャープ",
    "title": "シャープ 55V型 有機EL テレビ AQUOS OLED 4T-C55EQ1 4K チューナー内蔵 Google TV",
-   "url": "https://www.amazon.co.jp/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97-4T-C55EQ1-%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-Google-2022%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B09ZYQCBWF",
    "history": [
     {
      "t": "2026-06-13T01:47:33.699Z",
-     "p": 157000
+     "a": 157000
     },
     {
      "t": "2026-06-13T01:50:10.752Z",
-     "p": 157000
+     "a": 157000
     },
     {
      "t": "2026-06-13T01:50:47.292Z",
-     "p": 157000
+     "a": 157000
+    },
+    {
+     "t": "2026-06-13T01:55:57.265Z",
+     "a": 157000,
+     "k": null,
+     "r": null
+    },
+    {
+     "t": "2026-06-13T02:17:45.185Z",
+     "a": 157000,
+     "k": null,
+     "r": null,
+     "q": 214000
+    },
+    {
+     "t": "2026-06-13T02:24:50.843Z",
+     "a": 157000,
+     "k": 157175,
+     "r": null,
+     "q": 214000
+    },
+    {
+     "t": "2026-06-13T02:32:04.702Z",
+     "a": 157000,
+     "k": 157175,
+     "r": 165000,
+     "q": 214000
     }
-   ]
+   ],
+   "urls": {
+    "a": "https://www.amazon.co.jp/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97-4T-C55EQ1-%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-Google-2022%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B09ZYQCBWF",
+    "k": "https://kakaku.com/item/K0001441356/",
+    "r": "https://item.rakuten.co.jp/paladineer/compass1769500272/",
+    "q": "https://www.qoo10.jp/s/?keyword=4T-C55EQ1"
+   },
+   "kakakuUrl": "https://kakaku.com/item/K0001441356/"
   },
   "4T-C55GQ3": {
    "model": "4T-C55GQ3",
    "brand": "シャープ",
    "title": "シャープ 55V型 4K 有機EL テレビ AQUOS 4T-C55GQ3 Google TV 外付けHDD2番組同時録画対応 Dolby Atmos (2024年モデル) Wi-Fi6対応",
-   "url": "https://www.amazon.co.jp/4T-C55GQ3-Google-%E5%A4%96%E4%BB%98%E3%81%91HDD2%E7%95%AA%E7%B5%84%E5%90%8C%E6%99%82%E9%8C%B2%E7%94%BB%E5%AF%BE%E5%BF%9C-2024%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB-Wi-Fi6%E5%AF%BE%E5%BF%9C/dp/B0DVC1Z9XK",
    "history": [
     {
      "t": "2026-06-13T01:47:33.699Z",
-     "p": 138105
+     "a": 138105
     },
     {
      "t": "2026-06-13T01:50:10.752Z",
-     "p": 138105
+     "a": 138105
     },
     {
      "t": "2026-06-13T01:50:47.292Z",
-     "p": 138105
+     "a": 138105
+    },
+    {
+     "t": "2026-06-13T01:55:57.265Z",
+     "a": 138105,
+     "k": null,
+     "r": null
+    },
+    {
+     "t": "2026-06-13T02:17:45.185Z",
+     "a": 138105,
+     "k": null,
+     "r": null,
+     "q": 134050
+    },
+    {
+     "t": "2026-06-13T02:24:50.843Z",
+     "a": 138105,
+     "k": 129800,
+     "r": null,
+     "q": 134050
+    },
+    {
+     "t": "2026-06-13T02:32:04.702Z",
+     "a": 138105,
+     "k": 129800,
+     "r": 139500,
+     "q": 134050
     }
-   ]
+   ],
+   "urls": {
+    "a": "https://www.amazon.co.jp/4T-C55GQ3-Google-%E5%A4%96%E4%BB%98%E3%81%91HDD2%E7%95%AA%E7%B5%84%E5%90%8C%E6%99%82%E9%8C%B2%E7%94%BB%E5%AF%BE%E5%BF%9C-2024%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB-Wi-Fi6%E5%AF%BE%E5%BF%9C/dp/B0DVC1Z9XK",
+    "k": "https://kakaku.com/item/K0001648977/",
+    "r": "https://item.rakuten.co.jp/mttstore/4tc55gq3-4550556127097/",
+    "q": "https://www.qoo10.jp/s/?keyword=4T-C55GQ3"
+   },
+   "kakakuUrl": "https://kakaku.com/item/K0001648977/"
   },
   "4T-C55ES1": {
    "model": "4T-C55ES1",
    "brand": "シャープ",
    "title": "シャープ 55V型 高輝度 有機EL テレビ AQUOS OLED 4T-C55ES1 4K チューナー内蔵 Google TV (2022年モデル)",
-   "url": "https://www.amazon.co.jp/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97-4T-C55ES1-%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-Google-2022%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B09ZYM2JRR",
    "history": [
     {
      "t": "2026-06-13T01:47:33.699Z",
-     "p": 138330
+     "a": 138330
     },
     {
      "t": "2026-06-13T01:50:10.752Z",
-     "p": 138330
+     "a": 138330
     },
     {
      "t": "2026-06-13T01:50:47.292Z",
-     "p": 138330
+     "a": 138330
+    },
+    {
+     "t": "2026-06-13T01:55:57.265Z",
+     "a": 138330,
+     "k": null,
+     "r": null
+    },
+    {
+     "t": "2026-06-13T02:17:45.185Z",
+     "a": 138330,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:24:50.843Z",
+     "a": 138330,
+     "k": 126402,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:32:04.702Z",
+     "a": 138330,
+     "k": 126400,
+     "r": 117480,
+     "q": null
     }
-   ]
+   ],
+   "urls": {
+    "a": "https://www.amazon.co.jp/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97-4T-C55ES1-%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-Google-2022%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B09ZYM2JRR",
+    "k": "https://kakaku.com/item/K0001441353/",
+    "r": "https://item.rakuten.co.jp/a-price/2980000644863/",
+    "q": "https://www.qoo10.jp/s/?keyword=4T-C55ES1"
+   },
+   "kakakuUrl": "https://kakaku.com/item/K0001441353/"
   },
   "55X8900L": {
    "model": "55X8900L",
    "brand": "REGZA",
    "title": "REGZA レグザ テレビ 55X8900L (55インチ / 4K テレビ/有機EL OLED/Dolby Atomos ウーファー搭載/ダブルチューナー/スマートテレビ / 2022年モデル)",
-   "url": "https://www.amazon.co.jp/%E3%83%AC%E3%82%B0%E3%82%B6-%E6%9C%89%E6%A9%9FEL%E3%83%86%E3%83%AC%E3%83%93-55X8900L-4K%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-2022%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B0B62ZLQBZ",
    "history": [
     {
      "t": "2026-06-13T01:47:33.699Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:10.752Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:47.292Z",
-     "p": null
+     "a": null
+    },
+    {
+     "t": "2026-06-13T01:55:57.265Z",
+     "a": null,
+     "k": null,
+     "r": null
+    },
+    {
+     "t": "2026-06-13T02:17:45.185Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:24:50.843Z",
+     "a": null,
+     "k": 146000,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:32:04.702Z",
+     "a": null,
+     "k": 146000,
+     "r": 99000,
+     "q": null
     }
-   ]
+   ],
+   "urls": {
+    "a": "https://www.amazon.co.jp/%E3%83%AC%E3%82%B0%E3%82%B6-%E6%9C%89%E6%A9%9FEL%E3%83%86%E3%83%AC%E3%83%93-55X8900L-4K%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-2022%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B0B62ZLQBZ",
+    "k": "https://kakaku.com/item/K0001452596/",
+    "r": "https://item.rakuten.co.jp/takarajima-tukechi/55x8900l/",
+    "q": "https://www.qoo10.jp/s/?keyword=55X8900L"
+   },
+   "kakakuUrl": "https://kakaku.com/item/K0001452596/"
   },
   "55X9900L": {
    "model": "55X9900L",
    "brand": "REGZA",
    "title": "REGZA テレビ 55インチ 有機ELテレビ 55X9900L ハイエンド 全自動録画 外付けHDD 4Kチューナー内蔵 ハイレゾ対応",
-   "url": "https://www.amazon.co.jp/%E3%83%AC%E3%82%B0%E3%82%B6-%E6%9C%89%E6%A9%9FEL%E3%83%86%E3%83%AC%E3%83%93-55X9900L-4K%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-2022%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B0B23YKLXR",
    "history": [
     {
      "t": "2026-06-13T01:47:33.699Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:10.752Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:47.292Z",
-     "p": null
+     "a": null
+    },
+    {
+     "t": "2026-06-13T01:55:57.265Z",
+     "a": null,
+     "k": null,
+     "r": null
+    },
+    {
+     "t": "2026-06-13T02:17:45.185Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:24:50.843Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:32:04.702Z",
+     "a": null,
+     "k": null,
+     "r": 118800,
+     "q": null
     }
-   ]
+   ],
+   "urls": {
+    "a": "https://www.amazon.co.jp/%E3%83%AC%E3%82%B0%E3%82%B6-%E6%9C%89%E6%A9%9FEL%E3%83%86%E3%83%AC%E3%83%93-55X9900L-4K%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-2022%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B0B23YKLXR",
+    "k": "https://kakaku.com/item/K0001442083/",
+    "r": "https://item.rakuten.co.jp/brand-works/30020442/",
+    "q": "https://www.qoo10.jp/s/?keyword=55X9900L"
+   },
+   "kakakuUrl": "https://kakaku.com/item/K0001442083/"
   },
   "TH-55MZ1800": {
    "model": "TH-55MZ1800",
    "brand": "パナソニック",
    "title": "パナソニック 55V型 有機EL テレビ TH-55MZ1800 設置配送選択可能 4K VIERA イネーブルドスピーカー搭載 360立体音響サウンドシステム 転倒防止スタンド 2023年ハイグレードモデル",
-   "url": "https://www.amazon.co.jp/%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-TH-55MZ1800-%E3%82%A4%E3%83%8D%E3%83%BC%E3%83%96%E3%83%AB%E3%83%89%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC%E6%90%AD%E8%BC%89-360%E7%AB%8B%E4%BD%93%E9%9F%B3%E9%9F%BF%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-2023%E5%B9%B4%E3%83%8F%E3%82%A4%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89%E3%83%A2%E3%83%87%E3%83%AB/dp/B0C4YK29DZ",
    "history": [
     {
      "t": "2026-06-13T01:47:33.699Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:10.752Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:47.292Z",
-     "p": null
+     "a": null
+    },
+    {
+     "t": "2026-06-13T01:55:57.265Z",
+     "a": null,
+     "k": null,
+     "r": null
+    },
+    {
+     "t": "2026-06-13T02:17:45.185Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:24:50.843Z",
+     "a": null,
+     "k": 239800,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:32:04.702Z",
+     "a": null,
+     "k": 239800,
+     "r": 156740,
+     "q": null
     }
-   ]
+   ],
+   "urls": {
+    "a": "https://www.amazon.co.jp/%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-TH-55MZ1800-%E3%82%A4%E3%83%8D%E3%83%BC%E3%83%96%E3%83%AB%E3%83%89%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC%E6%90%AD%E8%BC%89-360%E7%AB%8B%E4%BD%93%E9%9F%B3%E9%9F%BF%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-2023%E5%B9%B4%E3%83%8F%E3%82%A4%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89%E3%83%A2%E3%83%87%E3%83%AB/dp/B0C4YK29DZ",
+    "k": "https://kakaku.com/item/K0001536384/",
+    "r": "https://item.rakuten.co.jp/bearhomes/2024-09-28-646/",
+    "q": "https://www.qoo10.jp/s/?keyword=TH-55MZ1800"
+   },
+   "kakakuUrl": "https://kakaku.com/item/K0001536384/"
   },
   "TH-55LZ1800": {
    "model": "TH-55LZ1800",
    "brand": "パナソニック",
    "title": "パナソニック 55V型 有機EL テレビ TH-55LZ1800 4K VIERA イネーブルドスピーカー搭載 360立体音響サウンドシステム 転倒防止スタンド 2022年モデル",
-   "url": "https://www.amazon.co.jp/%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-TH-55LZ1800-%E3%82%A4%E3%83%8D%E3%83%BC%E3%83%96%E3%83%AB%E3%83%89%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC%E6%90%AD%E8%BC%89-360%E7%AB%8B%E4%BD%93%E9%9F%B3%E9%9F%BF%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-%E8%BB%A2%E5%80%92%E9%98%B2%E6%AD%A2%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/dp/B09Z2C5DT9",
    "history": [
     {
      "t": "2026-06-13T01:47:33.699Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:10.752Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:47.292Z",
-     "p": null
+     "a": null
+    },
+    {
+     "t": "2026-06-13T01:55:57.265Z",
+     "a": null,
+     "k": null,
+     "r": null
+    },
+    {
+     "t": "2026-06-13T02:17:45.185Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:24:50.843Z",
+     "a": null,
+     "k": 198000,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:32:04.702Z",
+     "a": null,
+     "k": 198000,
+     "r": 201978,
+     "q": null
     }
-   ]
+   ],
+   "urls": {
+    "a": "https://www.amazon.co.jp/%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-TH-55LZ1800-%E3%82%A4%E3%83%8D%E3%83%BC%E3%83%96%E3%83%AB%E3%83%89%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC%E6%90%AD%E8%BC%89-360%E7%AB%8B%E4%BD%93%E9%9F%B3%E9%9F%BF%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-%E8%BB%A2%E5%80%92%E9%98%B2%E6%AD%A2%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/dp/B09Z2C5DT9",
+    "k": "https://kakaku.com/item/K0001439976/",
+    "r": "https://item.rakuten.co.jp/omatsuri-life2/b09z2c5dt9/",
+    "q": "https://www.qoo10.jp/s/?keyword=TH-55LZ1800"
+   },
+   "kakakuUrl": "https://kakaku.com/item/K0001439976/"
   },
   "4T-C55DS1": {
    "model": "4T-C55DS1",
    "brand": "シャープ",
    "title": "シャープ 55V型 有機EL テレビ AQUOS OLED 4T-C55DS1 4K チューナー内蔵 Android TV (2021年モデル) ブラック",
-   "url": "https://www.amazon.co.jp/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97-4T-C55DS1-%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-Android-2021%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B092VFG2PG",
    "history": [
     {
      "t": "2026-06-13T01:47:33.699Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:10.752Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:47.292Z",
-     "p": null
+     "a": null
+    },
+    {
+     "t": "2026-06-13T01:55:57.265Z",
+     "a": null,
+     "k": null,
+     "r": null
+    },
+    {
+     "t": "2026-06-13T02:17:45.185Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:24:50.843Z",
+     "a": null,
+     "k": 194800,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:32:04.702Z",
+     "a": null,
+     "k": 194800,
+     "r": null,
+     "q": null
     }
-   ]
+   ],
+   "urls": {
+    "a": "https://www.amazon.co.jp/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97-4T-C55DS1-%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-Android-2021%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B092VFG2PG",
+    "k": "https://kakaku.com/item/K0001350645/",
+    "r": null,
+    "q": "https://www.qoo10.jp/s/?keyword=4T-C55DS1"
+   },
+   "kakakuUrl": "https://kakaku.com/item/K0001350645/"
   },
   "OLED55A2PJA": {
    "model": "OLED55A2PJA",
    "brand": "LG",
    "title": "LG テレビ 55型 4Kチューナー内蔵 有機EL OLED55A2PJA スマートテレビ Alexa 搭載 2022 年モデル",
-   "url": "https://www.amazon.co.jp/LG-4K%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-%E6%9C%89%E6%A9%9FEL-OLED55A2PJA-Alexa/dp/B09Z2WGDKL",
    "history": [
     {
      "t": "2026-06-13T01:47:33.699Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:10.752Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:47.292Z",
-     "p": null
+     "a": null
+    },
+    {
+     "t": "2026-06-13T01:55:57.265Z",
+     "a": null,
+     "k": null,
+     "r": null
+    },
+    {
+     "t": "2026-06-13T02:17:45.185Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:24:50.843Z",
+     "a": null,
+     "k": 149800,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:32:04.702Z",
+     "a": null,
+     "k": 149800,
+     "r": null,
+     "q": null
     }
-   ]
+   ],
+   "urls": {
+    "a": "https://www.amazon.co.jp/LG-4K%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-%E6%9C%89%E6%A9%9FEL-OLED55A2PJA-Alexa/dp/B09Z2WGDKL",
+    "k": "https://kakaku.com/item/K0001447686/",
+    "r": null,
+    "q": "https://www.qoo10.jp/s/?keyword=OLED55A2PJA"
+   },
+   "kakakuUrl": "https://kakaku.com/item/K0001447686/"
   },
   "XRJ-55A80J": {
    "model": "XRJ-55A80J",
    "brand": "ソニー",
    "title": "ソニー 55V型 4K 有機EL テレビ ブラビア XRJ-55A80J OLED BRAVIA XR 倍速 Google TV ソニー・ピクチャーズの映画2年間見放題付き 4K/120fps対応 8畳以上推奨 2021年モデル",
-   "url": "https://www.amazon.co.jp/%E3%82%BD%E3%83%8B%E3%83%BC-XRJ-55A80J-4K%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC-BRAVIA-2021%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B091P97GMC",
    "history": [
     {
      "t": "2026-06-13T01:47:33.699Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:10.752Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:47.292Z",
-     "p": null
+     "a": null
+    },
+    {
+     "t": "2026-06-13T01:55:57.265Z",
+     "a": null,
+     "k": null,
+     "r": null
+    },
+    {
+     "t": "2026-06-13T02:17:45.185Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:24:50.843Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:32:04.702Z",
+     "a": null,
+     "k": null,
+     "r": 214080,
+     "q": null
     }
-   ]
+   ],
+   "urls": {
+    "a": "https://www.amazon.co.jp/%E3%82%BD%E3%83%8B%E3%83%BC-XRJ-55A80J-4K%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC-BRAVIA-2021%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B091P97GMC",
+    "k": "https://kakaku.com/item/K0001347764/",
+    "r": "https://item.rakuten.co.jp/bearhomes/2024-09-28-542/",
+    "q": "https://www.qoo10.jp/s/?keyword=XRJ-55A80J"
+   },
+   "kakakuUrl": "https://kakaku.com/item/K0001347764/"
   },
   "XRJ-55A90J": {
    "model": "XRJ-55A90J",
    "brand": "ソニー",
    "title": "ソニー 55V型 4K 有機EL テレビ ブラビア XRJ-55A90J OLED BRAVIA XR 倍速 Google TV ソニー・ピクチャーズの映画2年間見放題付き 4K/120fps対応 8畳以上推奨 2021年モデル",
-   "url": "https://www.amazon.co.jp/%E3%82%BD%E3%83%8B%E3%83%BC-XRJ-55A90J-4K%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC-BRAVIA-2021%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B091P9Z4VF",
    "history": [
     {
      "t": "2026-06-13T01:47:33.699Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:10.752Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:47.292Z",
-     "p": null
+     "a": null
+    },
+    {
+     "t": "2026-06-13T01:55:57.265Z",
+     "a": null,
+     "k": null,
+     "r": null
+    },
+    {
+     "t": "2026-06-13T02:17:45.185Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:24:50.843Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:32:04.702Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
     }
-   ]
+   ],
+   "urls": {
+    "a": "https://www.amazon.co.jp/%E3%82%BD%E3%83%8B%E3%83%BC-XRJ-55A90J-4K%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC-BRAVIA-2021%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B091P9Z4VF",
+    "k": "https://kakaku.com/item/K0001347761/",
+    "r": null,
+    "q": "https://www.qoo10.jp/s/?keyword=XRJ-55A90J"
+   },
+   "kakakuUrl": "https://kakaku.com/item/K0001347761/"
   },
   "4T-C55CQ1": {
    "model": "4T-C55CQ1",
    "brand": "シャープ",
    "title": "シャープ 55V型 有機EL テレビ AQUOS OLED 4T-C55CQ1 4K チューナー内蔵 Android TV Medalist S1 搭載 2020年モデル",
-   "url": "https://www.amazon.co.jp/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97-%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-Medalist-2020%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB-4T-C55CQ1/dp/B087XGBHQG",
    "history": [
     {
      "t": "2026-06-13T01:47:33.699Z",
-     "p": 170000
+     "a": 170000
     },
     {
      "t": "2026-06-13T01:50:10.752Z",
-     "p": 170000
+     "a": 170000
     },
     {
      "t": "2026-06-13T01:50:47.292Z",
-     "p": 170000
+     "a": 170000
+    },
+    {
+     "t": "2026-06-13T01:55:57.265Z",
+     "a": 170000,
+     "k": null,
+     "r": null
+    },
+    {
+     "t": "2026-06-13T02:17:45.185Z",
+     "a": 170000,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:24:50.843Z",
+     "a": 170000,
+     "k": 170000,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:32:04.702Z",
+     "a": 170000,
+     "k": 170000,
+     "r": 87780,
+     "q": null
     }
-   ]
+   ],
+   "urls": {
+    "a": "https://www.amazon.co.jp/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97-%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-Medalist-2020%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB-4T-C55CQ1/dp/B087XGBHQG",
+    "k": "https://kakaku.com/item/K0001256196/",
+    "r": "https://item.rakuten.co.jp/mujica-felice/b087xgbhqg/",
+    "q": "https://www.qoo10.jp/s/?keyword=4T-C55CQ1"
+   },
+   "kakakuUrl": "https://kakaku.com/item/K0001256196/"
   },
   "TH-55JZ2000": {
    "model": "TH-55JZ2000",
    "brand": "パナソニック",
    "title": "パナソニック 55V型 4Kダブルチューナー内蔵 有機EL テレビ TH-55JZ2000 VIERA 4K イネーブルドスピーカー搭載 [Tuned by Technics] 転倒防止スタンド 2021年モデル",
-   "url": "https://www.amazon.co.jp/%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-4K%E3%83%80%E3%83%96%E3%83%AB%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-TH-55JZ2000-%E3%82%A4%E3%83%8D%E3%83%BC%E3%83%96%E3%83%AB%E3%83%89%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC%E6%90%AD%E8%BC%89-Technics/dp/B0932MLSB8",
    "history": [
     {
      "t": "2026-06-13T01:47:33.699Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:10.752Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:47.292Z",
-     "p": null
+     "a": null
+    },
+    {
+     "t": "2026-06-13T01:55:57.265Z",
+     "a": null,
+     "k": null,
+     "r": null
+    },
+    {
+     "t": "2026-06-13T02:17:45.185Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": 102000
+    },
+    {
+     "t": "2026-06-13T02:24:50.843Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": 102000
+    },
+    {
+     "t": "2026-06-13T02:32:04.702Z",
+     "a": null,
+     "k": null,
+     "r": 102000,
+     "q": 102000
     }
-   ]
+   ],
+   "urls": {
+    "a": "https://www.amazon.co.jp/%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-4K%E3%83%80%E3%83%96%E3%83%AB%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-TH-55JZ2000-%E3%82%A4%E3%83%8D%E3%83%BC%E3%83%96%E3%83%AB%E3%83%89%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC%E6%90%AD%E8%BC%89-Technics/dp/B0932MLSB8",
+    "k": "https://kakaku.com/item/K0001350093/",
+    "r": "https://item.rakuten.co.jp/a-price/2980000659294/",
+    "q": "https://www.qoo10.jp/s/?keyword=TH-55JZ2000"
+   },
+   "kakakuUrl": "https://kakaku.com/item/K0001350093/"
   },
   "XRJ-55A80K": {
    "model": "XRJ-55A80K",
    "brand": "ソニー",
    "title": "ソニー 55V型 4K 有機EL テレビ ブラビア XRJ-55A80K OLED BRAVIA XR 倍速 Google TV ソニー・ピクチャーズの映画2年間見放題付き 4K/120fps対応 8畳以上推奨 2022年モデル",
-   "url": "https://www.amazon.co.jp/%E3%82%BD%E3%83%8B%E3%83%BC-XRJ-55A80K-%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%94%E3%82%AF%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA%E3%81%AE%E6%98%A0%E7%94%BB2%E5%B9%B4%E9%96%93%E8%A6%8B%E6%94%BE%E9%A1%8C%E4%BB%98%E3%81%8D-120fps%E5%AF%BE%E5%BF%9C-2022%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B0B3TBZBTV",
    "history": [
     {
      "t": "2026-06-13T01:47:33.699Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:10.752Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:47.292Z",
-     "p": null
+     "a": null
+    },
+    {
+     "t": "2026-06-13T01:55:57.265Z",
+     "a": null,
+     "k": null,
+     "r": null
+    },
+    {
+     "t": "2026-06-13T02:17:45.185Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:24:50.843Z",
+     "a": null,
+     "k": 229000,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:32:04.702Z",
+     "a": null,
+     "k": 229000,
+     "r": null,
+     "q": null
     }
-   ]
+   ],
+   "urls": {
+    "a": "https://www.amazon.co.jp/%E3%82%BD%E3%83%8B%E3%83%BC-XRJ-55A80K-%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%94%E3%82%AF%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA%E3%81%AE%E6%98%A0%E7%94%BB2%E5%B9%B4%E9%96%93%E8%A6%8B%E6%94%BE%E9%A1%8C%E4%BB%98%E3%81%8D-120fps%E5%AF%BE%E5%BF%9C-2022%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B0B3TBZBTV",
+    "k": "https://kakaku.com/item/K0001448854/",
+    "r": null,
+    "q": "https://www.qoo10.jp/s/?keyword=XRJ-55A80K"
+   },
+   "kakakuUrl": "https://kakaku.com/item/K0001448854/"
   },
   "TH-55LZ2000": {
    "model": "TH-55LZ2000",
    "brand": "パナソニック",
    "title": "パナソニック 55V型 有機EL テレビ TH-55LZ2000 4K VIERA ラインアレイスピーカー搭載 360立体音響サウンドシステム+ 転倒防止スタンド 2022年モデル",
-   "url": "https://www.amazon.co.jp/%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-TH-55LZ2000-%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%A2%E3%83%AC%E3%82%A4%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC%E6%90%AD%E8%BC%89-360%E7%AB%8B%E4%BD%93%E9%9F%B3%E9%9F%BF%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-%E8%BB%A2%E5%80%92%E9%98%B2%E6%AD%A2%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/dp/B09Z26FCRG",
    "history": [
     {
      "t": "2026-06-13T01:47:33.699Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:10.752Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:47.292Z",
-     "p": null
+     "a": null
+    },
+    {
+     "t": "2026-06-13T01:55:57.265Z",
+     "a": null,
+     "k": null,
+     "r": null
+    },
+    {
+     "t": "2026-06-13T02:17:45.185Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:24:50.843Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:32:04.702Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
     }
-   ]
+   ],
+   "urls": {
+    "a": "https://www.amazon.co.jp/%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-TH-55LZ2000-%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%A2%E3%83%AC%E3%82%A4%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC%E6%90%AD%E8%BC%89-360%E7%AB%8B%E4%BD%93%E9%9F%B3%E9%9F%BF%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-%E8%BB%A2%E5%80%92%E9%98%B2%E6%AD%A2%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/dp/B09Z26FCRG",
+    "k": "https://kakaku.com/item/K0001439974/",
+    "r": null,
+    "q": "https://www.qoo10.jp/s/?keyword=TH-55LZ2000"
+   },
+   "kakakuUrl": "https://kakaku.com/item/K0001439974/"
   },
   "OLED55B8PJA": {
    "model": "OLED55B8PJA",
    "brand": "LG",
    "title": "LG 55V型 4K 有機EL テレビ 外付けHDD録画対応(裏番組録画) Wi-Fi内蔵 2ウェイ4スピーカー 40W OLED55B8PJA",
-   "url": "https://www.amazon.co.jp/LG-55V%E5%9E%8B-OLED55B8PJA-%E3%83%89%E3%83%AB%E3%83%93%E3%83%BC%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E5%AF%BE%E5%BF%9C-%E3%83%89%E3%83%AB%E3%83%93%E3%83%BC%E3%82%A2%E3%83%88%E3%83%A2%E3%82%B9%E5%AF%BE%E5%BF%9C/dp/B07C5L7S3Z",
    "history": [
     {
      "t": "2026-06-13T01:47:33.699Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:10.752Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:47.292Z",
-     "p": null
+     "a": null
+    },
+    {
+     "t": "2026-06-13T01:55:57.265Z",
+     "a": null,
+     "k": null,
+     "r": null
+    },
+    {
+     "t": "2026-06-13T02:17:45.185Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:24:50.843Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:32:04.702Z",
+     "a": null,
+     "k": null,
+     "r": 98280,
+     "q": null
     }
-   ]
+   ],
+   "urls": {
+    "a": "https://www.amazon.co.jp/LG-55V%E5%9E%8B-OLED55B8PJA-%E3%83%89%E3%83%AB%E3%83%93%E3%83%BC%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E5%AF%BE%E5%BF%9C-%E3%83%89%E3%83%AB%E3%83%93%E3%83%BC%E3%82%A2%E3%83%88%E3%83%A2%E3%82%B9%E5%AF%BE%E5%BF%9C/dp/B07C5L7S3Z",
+    "k": "https://kakaku.com/item/K0001046816/",
+    "r": "https://item.rakuten.co.jp/mujica-felice/b07c5l7s3z/",
+    "q": "https://www.qoo10.jp/s/?keyword=OLED55B8PJA"
+   },
+   "kakakuUrl": "https://kakaku.com/item/K0001046816/"
   },
   "TH-55GZ1800": {
    "model": "TH-55GZ1800",
    "brand": "パナソニック",
    "title": "パナソニック 55V型 4Kダブルチューナー内蔵 有機EL テレビ Dolby Atmos(R)対応 80W・3ウェイスピーカー搭載 VIERA TH-55GZ1800",
-   "url": "https://www.amazon.co.jp/%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-4K%E3%83%80%E3%83%96%E3%83%AB%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-Dolby-80W%E3%83%BB3%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC%E6%90%AD%E8%BC%89-TH-55GZ1800/dp/B07SPYK5QT",
    "history": [
     {
      "t": "2026-06-13T01:47:33.699Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:10.752Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:47.292Z",
-     "p": null
+     "a": null
+    },
+    {
+     "t": "2026-06-13T01:55:57.265Z",
+     "a": null,
+     "k": null,
+     "r": null
+    },
+    {
+     "t": "2026-06-13T02:17:45.185Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:24:50.843Z",
+     "a": null,
+     "k": 230500,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:32:04.702Z",
+     "a": null,
+     "k": 230500,
+     "r": null,
+     "q": null
     }
-   ]
+   ],
+   "urls": {
+    "a": "https://www.amazon.co.jp/%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-4K%E3%83%80%E3%83%96%E3%83%AB%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-Dolby-80W%E3%83%BB3%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC%E6%90%AD%E8%BC%89-TH-55GZ1800/dp/B07SPYK5QT",
+    "k": "https://kakaku.com/item/K0001162859/",
+    "r": null,
+    "q": "https://www.qoo10.jp/s/?keyword=TH-55GZ1800"
+   },
+   "kakakuUrl": "https://kakaku.com/item/K0001162859/"
   },
   "4T-C55DQ1": {
    "model": "4T-C55DQ1",
    "brand": "シャープ",
    "title": "シャープ 55V型 有機EL テレビ AQUOS OLED 4T-C55DQ1 4K チューナー内蔵 Android TV (2021年モデル)",
-   "url": "https://www.amazon.co.jp/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97-4T-C55DQ1-%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-Android-2021%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B092VFB924",
    "history": [
     {
      "t": "2026-06-13T01:47:33.699Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:10.752Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:47.292Z",
-     "p": null
+     "a": null
+    },
+    {
+     "t": "2026-06-13T01:55:57.265Z",
+     "a": null,
+     "k": null,
+     "r": null
+    },
+    {
+     "t": "2026-06-13T02:17:45.185Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:24:50.843Z",
+     "a": null,
+     "k": 170000,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:32:04.702Z",
+     "a": null,
+     "k": 170000,
+     "r": 134400,
+     "q": null
     }
-   ]
+   ],
+   "urls": {
+    "a": "https://www.amazon.co.jp/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97-4T-C55DQ1-%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-Android-2021%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B092VFB924",
+    "k": "https://kakaku.com/item/K0001350647/",
+    "r": "https://item.rakuten.co.jp/iinex/nb092vfb924/",
+    "q": "https://www.qoo10.jp/s/?keyword=4T-C55DQ1"
+   },
+   "kakakuUrl": "https://kakaku.com/item/K0001350647/"
   },
   "4T-C55DQ2": {
    "model": "4T-C55DQ2",
    "brand": "シャープ",
    "title": "シャープ 55V型 低映り込み 有機EL テレビ AQUOS OLED 4T-C55DQ2 4K チューナー内蔵 Android TV (2021年モデル) ブラック",
-   "url": "https://www.amazon.co.jp/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97-4T-C55DQ2-%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-Android-2021%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B09FJ8FW35",
    "history": [
     {
      "t": "2026-06-13T01:47:33.699Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:10.752Z",
-     "p": null
+     "a": null
     },
     {
      "t": "2026-06-13T01:50:47.292Z",
-     "p": null
+     "a": null
+    },
+    {
+     "t": "2026-06-13T01:55:57.265Z",
+     "a": null,
+     "k": null,
+     "r": null
+    },
+    {
+     "t": "2026-06-13T02:17:45.185Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:24:50.843Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-13T02:32:04.702Z",
+     "a": null,
+     "k": null,
+     "r": 244570,
+     "q": null
     }
-   ]
+   ],
+   "urls": {
+    "a": "https://www.amazon.co.jp/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97-4T-C55DQ2-%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-Android-2021%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B09FJ8FW35",
+    "k": "https://kakaku.com/item/K0001382591/",
+    "r": "https://item.rakuten.co.jp/dcc/sharp_4t-c55dq2/",
+    "q": "https://www.qoo10.jp/s/?keyword=4T-C55DQ2"
+   },
+   "kakakuUrl": "https://kakaku.com/item/K0001382591/"
   }
- }
+ },
+ "news": [
+  {
+   "title": "半額以下も。Amazonブラックフライデーで大画面4Kテレビが安い！",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yS0ViT3huLVBLOEloY0ZpZEFyT1puWUZ5V2Y3SGViRGhfRFNNYlE5VzVld3IyZWFmcEstcTBkamw1ZUN0SzZSYXZERVZzTm55bWZHbWFMYWRvNjE4NDh3U0VSYmozdw?oc=5",
+   "source": "PHILE WEB",
+   "pubDate": "Wed, 26 Nov 2025 08:00:00 GMT",
+   "q": "4K テレビ 安く 買う",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "【XiaomiのTV】「地上波観ない」なら2万円台でGET。モニター買うより安い不思議…",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02djd2VDV2bVBCbm91a2VDNFBjMDdRRFpLZzZWcHMwbXhtMm0zTnpaTHd1clRSSVBjdXhEVmpDNm5WamdNYzhybmlLOTFqS0VQOTBKaVJFMGp5VHVrTE9XOTA4eUlKRDc4UjQw?oc=5",
+   "source": "ギズモード・ジャパン",
+   "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
+   "q": "4K テレビ 安く 買う",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "メディアプレイヤー「Fire TV」シリーズが安い！ Amazon新生活先行セール スティック型の「Fire TV Stick 4K Max」が7980円など",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXVXdjVlVnTE9GZE0wdnFrTC04eHFpX29ZMHY2QllQRzhabjlwSXY3YjlOUnREOGF1R1NveXAyeEpwU21uV3hfYmF3Sy1JdzRvNEw3ZFd3R1VTQUV0eGRXd0ZINDkyQ2ZkX052RklvbU4?oc=5",
+   "source": "INTERNET Watch",
+   "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT",
+   "q": "4K テレビ 安く 買う",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "【2026年】テレビのおすすめランキング。格安モデルから4K高画質モデルまで人気商品を紹介",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12bS02SGxnRVVuSndCTGJ0NjNYaTZ3RHppZXdwTUpXTzFlU29GejRwYXhuOWRUd1hRUUpyMGdlbjVXTjI0TTh6M2dvU29oNHZuRGNZOEpRdXJJczVi?oc=5",
+   "source": "360LiFE",
+   "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
+   "q": "4K テレビ 安く 買う",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "【徹底比較】40インチテレビのおすすめ人気ランキング【2026年5月】",
+   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE40QW1tTXhYby1DQ2pPTTFveTh2UXhfejJaVDg4WGt6eVY5Y05wMDlOajM5bkdqdXhBVlpGV01B?oc=5",
+   "source": "マイベスト",
+   "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
+   "q": "4K テレビ 安く 買う",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "【徹底比較】LGの55インチテレビのおすすめ人気ランキング【2026年6月】",
+   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE84WGhzcXhkUTgzc3FiaW5GdkxTNGVxZlpvLWdEcDlLUWo3VnNNY3lqQjZwVEFCemJnXzJSSENn?oc=5",
+   "source": "マイベスト",
+   "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
+   "q": "55型 有機EL おすすめ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "【徹底比較】安い55インチテレビのおすすめ人気ランキング【2026年6月】",
+   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9aYmQyWDZQdnBuaHczd1Y2NnoxYlpFamttRzEtRDJZQWx6SVVpSmpNZHJKbTFoQ0tBdzM2d0d3?oc=5",
+   "source": "マイベスト",
+   "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
+   "q": "55型 有機EL おすすめ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "【徹底比較】55インチの液晶テレビのおすすめ人気ランキング【2026年6月】",
+   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1LSzdKQVJrMDlzaUJyLW9TR2o4YmRQOFpsQm9RcGdHTGFoNWFqSDZkYnBVR0pjQnJYenVpa3Rn?oc=5",
+   "source": "マイベスト",
+   "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
+   "q": "55型 有機EL おすすめ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "【徹底比較】55インチの壁掛けテレビのおすすめ人気ランキング【2026年6月】",
+   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5tY0dnaDBKUVBweVUzcjVMWWlYLVlHZlNfcWNXNExxMGVwSFM3Ujhha3NPWGEwbWk0MzMzVW1R?oc=5",
+   "source": "マイベスト",
+   "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
+   "q": "55型 有機EL おすすめ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "有機ELテレビのおすすめ8選 コスパ最強から画質重視モデルまで【2026年】",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HN1BsdENUMUlOMXVfa0p0UEljOTFmeDBOUGJiWlctMTYzaHRBbXZmQ3Y5UmVpaUhNQlh1TmVFVFZBbVJ3dXNvaEpaRkdGZ0V3RVE?oc=5",
+   "source": "価格.comマガジン",
+   "pubDate": "Mon, 15 Dec 2025 00:00:40 GMT",
+   "q": "55型 有機EL おすすめ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "【徹底比較】55インチの有機ELテレビのおすすめ人気ランキング",
+   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBXMU9jaGNySVNNbXN3UFlfaHQtNWhhcjUxZkFTb1gtdW5JQUtLQzlrcUNWQnpjZ0loVS1FdmNn?oc=5",
+   "source": "マイベスト",
+   "pubDate": "Thu, 25 Dec 2025 08:00:00 GMT",
+   "q": "55型 有機EL おすすめ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "55インチテレビのおすすめ6選 mini LEDも有機ELも高コスパ機揃い！【2026年】",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01bWl5OS1vYWNfbm9lQkh3VFRCMTlXRUVNX0tTcDRtdVVTVWNnZTgxbUMwcHJUSWNPWm5MNXlBNm5VNGVrRWFkUk5FeldFWWVlV1E?oc=5",
+   "source": "価格.comマガジン",
+   "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
+   "q": "55型 有機EL おすすめ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "【徹底比較】55インチテレビのおすすめ人気ランキング【2026年6月】",
+   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1PZnUxOG1hUHZGYWZXTnAyTmNEX0FXU2tUeUtQaHJ1b0NPaFo1RURZRkR5TjZWQWtYNzl5QUdB?oc=5",
+   "source": "マイベスト",
+   "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
+   "q": "55型 有機EL おすすめ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "Amazonプライム感謝祭2025 テレビのおすすめ商品｜4K・有機ELなど最新モデルのセール価格・割引率は？",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOEJGbllzcVNGcWs5UG5Qc2N2UHJsZjUzZzNNYUkza1M0SmcyZ29GTm5mc2J5akt1M3dKS2E2a3hvajRKQ2t3dktJN3J2bUlPdzJETmNYak9JV2tINFc2VUhiT2t2N3ExSlUyUjJFQUU2WTRJZ09maFBDY3hPYU1yYlk5WEpnbEFKU0d1ekR1QThkT0QtRUZNN2FZcXYzYkk2OU1hZ0hMdE1TUjIwSS1OcW5ERno0WUZkYURYME1iNzJzSktpbldReUpB?oc=5",
+   "source": "Goal.com",
+   "pubDate": "Fri, 10 Oct 2025 07:00:00 GMT",
+   "q": "Amazon プライムデー テレビ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "Amazon「Fire TV」シリーズがお得！ Amazonプライムデー スティック型メディアプレイヤー「Fire TV Stick 4K Max」は9980円",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yZmdweHViZDAyWF9SY2ZqcmplOXRDYjJoQUM2OTZKSUtLUGFRdFNLTzd5Wlg5ZlI5WEd2WThuVmgzLTRodVVIMUR4NHNMRTU5TXVQZ0I3LURXdm90UXl2QU0wY2tnbzBLemU0VzU1bWw?oc=5",
+   "source": "INTERNET Watch",
+   "pubDate": "Tue, 08 Jul 2025 07:00:00 GMT",
+   "q": "Amazon プライムデー テレビ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "【プライム感謝祭2025】TV（テレビ） セール価格徹底調査 過去1年の最安値と比較",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14RlhDdWRadk15NFllenJNU1JTd1RVOHItbDhBYWFtSkRwVElQSXV2OTRTU0F3N2NLX0dDSlZsOV9zVmhfWkVoU2hpandtOUc4azRoZUFaeHJCMDZuTGd1d0c1Tm44RWZrOWJn?oc=5",
+   "source": "uzurea.net",
+   "pubDate": "Tue, 07 Oct 2025 07:00:00 GMT",
+   "q": "Amazon プライムデー テレビ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "東芝REGZA、シャープAQUOSなど有機ELテレビ＆4K液晶テレビお買い得まとめ",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1MkZobU94RnBsVVBSdWlySnVDNDV3dDV1bDltU1ZuVm8td0dNcFJFX0o4dXdReDFYR3FGWk02Yl8zRVNQaDNFdkJfQS1qZ3B3TExCWDlDREsydw?oc=5",
+   "source": "電撃オンライン",
+   "pubDate": "Sun, 13 Jul 2025 07:00:00 GMT",
+   "q": "Amazon プライムデー テレビ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "Amazonプライム感謝祭のテレビセール対象商品まとめ！",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wbmpjTDQtQ0lpNElUa3VieXQ0ZVhmVkpIdFhBMVFVMFZYbjEtWE9GcS04ZHVKZFl5ZzdtLUl3am92R2lsanU3UXR1SjVkS0lqNUJtMW9MTTRKdG41WFhV?oc=5",
+   "source": "hep.eiz.jp",
+   "pubDate": "Mon, 16 Feb 2026 08:00:00 GMT",
+   "q": "Amazon プライムデー テレビ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "【Amazon新生活先行セール】10万円超の高額割引も！大画面4Kテレビが安い",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FbGkzeU50ZWhFUzhIOWdERlJ3T0tzcXNHVTRzT0Vnc21wMS1SUXQ2Y0g4WG9idGhqWVJGMHdsV2l4Vnd3eEprZlNUN0FadzE3aE4zc1AtRUpZbTBmZloySVYxSUczQQ?oc=5",
+   "source": "PHILE WEB",
+   "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT",
+   "q": "Amazon プライムデー テレビ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "【Amazonプライムデー】テレビのおすすめ対象商品まとめ。ポイントアップキャンペーンでさらにお得に！",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fNHRNY3k1WWVMbVVlVE9vQkktS3I5RHF6ZXJ2VE51QXdPWmhLMGhqS3N2d3dyYW84QXNub2FBZDY2SDVRa25ScHE5WUx3ZDQ?oc=5",
+   "source": "ROOMIE（ルーミー）",
+   "pubDate": "Mon, 14 Jul 2025 07:00:00 GMT",
+   "q": "Amazon プライムデー テレビ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "Amazonセール2026【6月最新】次はプライムデー！一番安い時期・攻略法も解説",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyb2FzN3hhbmpROFFZVndxbEYxSU51dno4RG16MHBqQVFLMEJnV2ZxR1IxdnhPSnEzQTVnS2pPYXA0UkVVR015TVFFa3dYd3hBNC02TA?oc=5",
+   "source": "funq.jp",
+   "pubDate": "Sat, 13 Jun 2026 00:29:07 GMT",
+   "q": "Amazon プライムデー テレビ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "ガソリン価格 値下げの動きも…先行き不透明で続く不安「少しづつ下がってもらえればいい」 長野（2026年3月20日掲載）",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZS1hOUZ1VklHU29WVVZGZEJYZU16WTZDQ09jWDJGSlhJcElwWlgxemg0dkJ1OUhoR0JubmNZNjlzYURkeXQtV0JOb2c5aXNYSXItdVpzdy1icWh6MW1XVkNZR3g4ZXdLYVlnNG1KaWZxNVNBazVaR2FrWjlTbHBlUTdCbU82T0k?oc=5",
+   "source": "日テレNEWS NNN",
+   "pubDate": "Fri, 20 Mar 2026 07:00:00 GMT",
+   "q": "テレビ 値下げ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "「とにかく売れてほしい...涙のセール」 サムスンとLG、テレビを値下げまた値下げ",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aYzNIM19TUE5Gb2ZoYnE2NmM4OVVhNEN6TkJmS3pVR3hIQ0pOT0JPc1FhRC1salA0bDlzZ2l3VENZaHFZZ21Sc0xBLVBTdWZqZjAw?oc=5",
+   "source": "매일경제",
+   "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
+   "q": "テレビ 値下げ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "倉庫には“大量の米” 泣く泣く値下げ… 米の価格高止まりで“訳あり米”の売れ行きは好調",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDcE1adDdPYzI2dk9wZ21SQm8wVU5HWU55WUlTZEpqb2M0X19Ub3FEZnBBYkdHRHNJeUs4NFFjS3Nxc2k0cTAyNVVaeTFNUUlrZWF1NGJ3cTczZHJJT25vQTRaNA?oc=5",
+   "source": "TBS NEWS DIG",
+   "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
+   "q": "テレビ 値下げ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "中国電力　7〜9月使用の電気料金値下げ　政府の支援策を活用",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IMkhWUXAyclVWTUh6Qk5QQnp1dnh4YXk0aWlwdEZKQzhVS1JwNWhJNGF6N29GcEhCUjcyeXM2Tzk3SXMxZHJaMkZoNnluQ040NkVTLUd1cFJ5X3JvTmVZdS1DTUVEMU1BckdfZmk5M1JrcGItdGRIX3I1SdIBgAFBVV95cUxOWHBvSlMxeER1c24wcHVyejJON3MycjdfaHN1VnE0WllvSEJJNVF3TG9qRjdwa041eEFyd0lsZ1VxaUkxeVhsaEdkaGNXa1Z0bHNoamZCWGNScUtxVGpnaTdXdGlUNGxtRE1XcGpTR09FUVZqWWpuZEUtWGlYZmNWRw?oc=5",
+   "source": "ｄメニューニュース",
+   "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT",
+   "q": "テレビ 値下げ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "AQUOSテレビやMITSUBISHI冷蔵庫が値下げ、展示家電SALEが期間限定開催",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MQUdKMjFQWVlwbnpMZ0hubFFhVXRkaXluaE1zZzhMU2NvZlVtUWt5bDRPLUZrN1BFT3RHMnhfMXJEaUhUblAzTFNMV1V5ZjZ1VW5iQg?oc=5",
+   "source": "ASCII.jp",
+   "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
+   "q": "テレビ 値下げ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "SONY 4K液晶テレビ ブラビア BRAVIA X81Lシリーズ【85型～43型】最大46,200円値下げのタイムセール。2026年6月17日(水)まで。",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EY2N4M2Y5amlUZVlqeVpZejBVN3ZGd3A5RDlHeVlVcXFDTFVFZVR2VFRNSHBQMHByX2Z3VWs3X05POEZzNW8wc3Q2WC03VXBmdFU1RjhUMmg4dw?oc=5",
+   "source": "ソニーが基本的に好き。",
+   "pubDate": "Wed, 10 Jun 2026 15:47:58 GMT",
+   "q": "テレビ 値下げ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "【米価】販売店は値下げを決断 他店との価格競争も《新潟》（TeNYテレビ新潟）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RaFluODdoT19mUzRQa1I4bkE0UjZfZGNVV1RGWWlFYTdoNi1OQnZmUWk4a1RlaXNReFpsNmI3YjdmWHd0M0FCb1c5SlM5T3FyOUdkcUhpZzlJNWg0QXJQX0UwQU1rZ3lMUHRCS3oxSjN1LU9GS1F5Y2hXdFdxa2c?oc=5",
+   "source": "Yahoo!ニュース",
+   "pubDate": "Wed, 10 Jun 2026 12:00:00 GMT",
+   "q": "テレビ 値下げ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "【6月10日】大幅値下げで“今”安い！ テレビの格安・激安な注目製品14選",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kSzZ4dmdud1hfVzNJdGVjZENvbHBIdFN5YkVLWGpGejVuQ3J0dnBhNWRDNWFkbmJxckJZd3lZMEFvS1ZvS2dPNU55ZFhyeHZWYnc?oc=5",
+   "source": "価格.comマガジン",
+   "pubDate": "Wed, 10 Jun 2026 06:00:00 GMT",
+   "q": "テレビ 値下げ",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "【Amazonセール】REGZAのTVがお買い得。2025年モデルの4K液晶「85E350N」や4K有機EL「65X8900L」も対象に",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQYmdnZWpNblVsNlBYN0ZUOWg4RUdPSVRsVW9TWFBHTVlRRkR6MjVwUTdRdUFaQnBvZFdGX05xOXZDOXlHbkdsRFFFb21LUFRydm1mdm11UVJZR0ZPUU9CeVZVc0hCdw?oc=5",
+   "source": "GAME Watch",
+   "pubDate": "Fri, 22 May 2026 07:00:00 GMT",
+   "q": "有機EL テレビ セール",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "【Amazonセール】LGの有機ELテレビおよび液晶テレビがお買い得。65V型4K有機ELテレビ（2025年モデル）などがラインナップ",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zUmVUS21fNWRwaFZMNGszeXdPQzVZT0VJdE0tcWVnb2lyRGdVZnl1azU0Q1lUel81X1pJNGZYWkdybF9QazFoUkJpRGdHX2NvNzVZeVNXNXZFRlFzUTZnbTR6M2lBdw?oc=5",
+   "source": "GAME Watch",
+   "pubDate": "Tue, 24 Mar 2026 07:00:00 GMT",
+   "q": "有機EL テレビ セール",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "48型4K有機ELテレビが約12万円。Amazonタイムセール【今日みつけたお買い得品】",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sWDJQaktJdlVaTHpwWktpVW51MXA5bDduSkpjY3Y2R1Fsb1Vsb2gyOElISWV5WmZTc1VZUkJWMTVkWVFtMUpWZEhObTJ6NEoyVFhFSWxfemtiandWa2plVl9leFdQWEJPM2NCV2lwcFgtV2M?oc=5",
+   "source": "AV Watch",
+   "pubDate": "Fri, 01 May 2026 07:00:00 GMT",
+   "q": "有機EL テレビ セール",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "【Amazonセール】LGの48V型有機ELテレビ「OLED48B5PJA」（2025年モデル）がお買い得",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PWEhqcUMxeW9Qekd5VzZVSFV6RW5UcW1oQ2NqWktHOGVfME4yVHFfMFRrRFUwbnNJWjRUdmRMSnZKWm9wYUlxV1dyWm5uU050WEdINWh5WU9tUFZNTEItWnRsa0Fzdw?oc=5",
+   "source": "GAME Watch",
+   "pubDate": "Tue, 19 May 2026 07:00:00 GMT",
+   "q": "有機EL テレビ セール",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "【有機ELレグザ半額】ゲーム特化したハイグレードモデル『REGZA 55X8900R』が18万円引きで登場《楽天スーパーセール》",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YSGh0Ylp2Sm1CWUlmaHk5ZUlCQ3hZWVRpOXlxZTh3T0Q3Ti1hTm55MkhaUzN4dlFaZzlDQnNkNF8xc1gta2lvblQtZTUyOXJZWk1nWDhsa1F1Zw?oc=5",
+   "source": "電撃オンライン",
+   "pubDate": "Fri, 06 Mar 2026 08:00:00 GMT",
+   "q": "有機EL テレビ セール",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "LGの55型有機EL TV「LG 55V型有機ELTV OLED55B5PJA」が16％オフの13万8600円に - ITmedia PC USER",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UaDFLWDA0X256cnN5NWV0bF9KSlB0TjJ2NGN2TDNNT1hKYjhuVmRDZ3lNbG16QlV4MnVIVVR1dWx4ejRoSXVMVFhSNDIwTjNQdjZNaC1uakdhUFVvX0ptb2Q2d014RFdPYlNVdG5xc9IBaEFVX3lxTE14Mmhhd3VONWpSbjNYSXVFR2dpUGhEc3Nub0lPcHkwRnBnVE5zMnd5YTF2ZW5jc0ZzaWE4d2F2WWpjWEZxbFBmV2JSSkNFRVk3Unk5cjd2aUY4WXlETDZuWDQwWGRPWDQy?oc=5",
+   "source": "ITmedia",
+   "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
+   "q": "有機EL テレビ セール",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "【Amazonセール】LGの65V型4K有機ELテレビ（2025年モデル）などがお買い得",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rbWR1MTJfdzZkRjdxRFRBdTRUV1ZXX1BJS3FpUTBGWXBlQVJzb1k1OHZNaEJGbnJReUhOY1M1aUJ5TkpfbExKcXlEVEpVT3h6WEpxMU9aVTN4QUZLdkVN?oc=5",
+   "source": "ライブドアニュース",
+   "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+   "q": "有機EL テレビ セール",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  },
+  {
+   "title": "【Amazonセール】LGの65V型有機ELテレビがセール価格で登場。2026年モデルもラインナップ",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yNFdVc29tS2Q2T3lVMVpJRVlNdzhoOUl0b2lqUHF0MU1YekZ4b0V6cWh2VzlxNVJaaldPMDNBVUwxOEF1NjFBUGNfZWtLbEVkZkdrUm9qc194R2pwYkFBd1FoMHBfdw?oc=5",
+   "source": "GAME Watch",
+   "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
+   "q": "有機EL テレビ セール",
+   "firstSeen": "2026-06-13T02:17:45.185Z"
+  }
+ ]
 }

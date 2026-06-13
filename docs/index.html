@@ -59,8 +59,29 @@
   .notes { font-size: .72rem; color: var(--sub); margin-top: 8px; padding-top: 8px;
     border-top: 1px dashed var(--border); line-height: 1.5; }
   .notes b { color: var(--text); font-weight: 600; }
+  .sources { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 10px; }
+  .src {
+    display: inline-flex; align-items: center; gap: 4px; font-size: .72rem;
+    padding: 4px 9px; border-radius: 8px; border: 1px solid var(--border);
+    color: var(--sub); text-decoration: none;
+  }
+  .src b { color: var(--text); font-weight: 700; }
+  .src.best { border-color: var(--down); }
+  .src.best b { color: var(--down); }
+  .src.na { opacity: .45; }
   footer { text-align: center; font-size: .7rem; color: var(--sub); padding: 18px 0 30px; line-height: 1.7; }
   .loading { text-align: center; color: var(--sub); padding: 40px 0; }
+  .section-title { font-size: .95rem; font-weight: 700; margin: 22px 4px 10px; display: flex; align-items: center; gap: 6px; }
+  .news-item {
+    display: block; background: var(--card); border: 1px solid var(--border); border-radius: 10px;
+    padding: 11px 13px; margin-bottom: 8px; text-decoration: none; color: inherit;
+  }
+  .news-item:active { border-color: var(--accent); }
+  .news-title { font-size: .82rem; font-weight: 600; line-height: 1.45;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .news-meta { font-size: .68rem; color: var(--sub); margin-top: 5px; display: flex; gap: 8px; align-items: center; }
+  .news-sale { color: var(--down); font-weight: 700; }
+  .news-new { background: var(--accent); color: #fff; font-size: .6rem; padding: 1px 6px; border-radius: 999px; font-weight: 700; }
 </style>
 </head>
 <body>
@@ -70,9 +91,10 @@
 </header>
 <div class="summary" id="summary"></div>
 <main id="list"><div class="loading">データ取得中…</div></main>
+<section id="news"></section>
 <footer>
-  Amazon.co.jp 検索結果(53〜62型 / 有機EL / 4K / ¥85,000〜180,000)を毎日 7:00 / 15:00 に自動取得<br>
-  値下がり時は ntfy 通知 / カードタップでAmazon商品ページへ
+  Amazon / 価格.com(量販店最安)/ 楽天 / Qoo10 を毎日 7:00 / 15:00 に自動取得<br>
+  セール記事は Google ニュースから収集 ・ 対象: 53〜62型 / 有機EL / 4K ・ 値下がり&新着セールは ntfy 通知
 </footer>
 <script>
 // 機種ごとの補足情報(わかる範囲で手動メンテ)
@@ -88,9 +110,14 @@ const NOTES = {
   'TH-55LZ1800':  { year: 2022, note: '360立体音響。MZ1800の前世代' },
 };
 const fmt = n => '¥' + n.toLocaleString('ja-JP');
+// 履歴1件の総合最安(旧スキーマ {t,p} と新スキーマ {t,a,k,r} の両対応)
+const overall = h => {
+  const v = ('p' in h ? [h.p] : [h.a, h.k, h.r]).filter(x => x != null);
+  return v.length ? Math.min(...v) : null;
+};
 
 function spark(history, w = 110, h = 34) {
-  const pts = history.filter(x => x.p !== null);
+  const pts = history.map(x => ({ t: x.t, p: overall(x) })).filter(x => x.p !== null);
   if (pts.length < 2) return '';
   const ps = pts.map(x => x.p);
   const min = Math.min(...ps), max = Math.max(...ps);
@@ -114,12 +141,13 @@ fetch('data.json?t=' + Date.now())
       '最終更新: ' + d.toLocaleString('ja-JP', { month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit', timeZone: 'Asia/Tokyo' });
 
     const products = Object.values(data.products).map(p => {
-      const valid = p.history.filter(h => h.p !== null);
-      const latest = valid.at(-1)?.p ?? null;
-      const prev = valid.at(-2)?.p ?? null;
-      const lowest = valid.length ? Math.min(...valid.map(h => h.p)) : null;
-      const highest = valid.length ? Math.max(...valid.map(h => h.p)) : null;
-      return { ...p, latest, prev, lowest, highest };
+      const series = p.history.map(overall).filter(x => x !== null);
+      const latest = series.at(-1) ?? null;
+      const prev = series.at(-2) ?? null;
+      const lowest = series.length ? Math.min(...series) : null;
+      const highest = series.length ? Math.max(...series) : null;
+      const last = p.history.at(-1) ?? {};
+      return { ...p, latest, prev, lowest, highest, last };
     }).sort((a, b) => (a.latest ?? Infinity) - (b.latest ?? Infinity));
 
     // サマリー: 最安と直近の動き
@@ -139,7 +167,21 @@ fetch('data.json?t=' + Date.now())
                  : diff > 0 ? `<span class="diff up">▲ ${fmt(diff)}</span>`
                  : `<span class="diff flat">→ 変動なし</span>`;
       }
-      return `<a class="card" href="${p.url}" target="_blank" rel="noopener">
+      const urls = p.urls ?? { a: p.url, k: null, r: null, q: null };
+      const srcs = [
+        { key: 'a', label: 'Amazon', price: p.last.a ?? (('p' in p.last) ? p.last.p : null), url: urls.a },
+        { key: 'k', label: '価格.com', price: p.last.k ?? null, url: urls.k },
+        { key: 'r', label: '楽天', price: p.last.r ?? null, url: urls.r },
+        { key: 'q', label: 'Qoo10', price: p.last.q ?? null, url: urls.q },
+      ];
+      const sourcesHtml = srcs.map(s => {
+        const best = s.price !== null && s.price === p.latest;
+        const inner = `${s.label} <b>${s.price !== null ? fmt(s.price) : '—'}</b>`;
+        return s.url
+          ? `<a class="src ${best ? 'best' : ''} ${s.price === null ? 'na' : ''}" href="${s.url}" target="_blank" rel="noopener">${inner}</a>`
+          : `<span class="src na">${inner}</span>`;
+      }).join('');
+      return `<div class="card">
         <div class="card-top">
           <span class="brand-model"><span class="brand">${p.brand}</span>${p.model}${note ? ` <span style="color:var(--sub);font-weight:400;font-size:.75rem">(${note.year}年)</span>` : ''}</span>
           ${isLowest ? '<span class="badge">観測最安値</span>' : ''}
@@ -147,14 +189,43 @@ fetch('data.json?t=' + Date.now())
         <div class="title">${p.title}</div>
         <div class="price-row">
           <div>
-            <div class="price ${p.latest === null ? 'na' : ''}">${p.latest !== null ? `<span class="yen">¥</span>${p.latest.toLocaleString()}` : '価格非表示(出品確認はリンク先で)'}</div>
+            <div class="price ${p.latest === null ? 'na' : ''}">${p.latest !== null ? `<span class="yen">¥</span>${p.latest.toLocaleString()}` : '価格情報なし'}</div>
             ${p.latest !== null ? `<div class="range">${diffHtml}${diffHtml ? ' / ' : ''}観測: ${fmt(p.lowest)}〜${fmt(p.highest)}</div>` : ''}
           </div>
           ${spark(p.history)}
         </div>
+        <div class="sources">${sourcesHtml}</div>
         ${note ? `<div class="notes">${note.note}</div>` : ''}
-      </a>`;
+      </div>`;
     }).join('');
+
+    // ----- セール・ニュース -----
+    const news = (data.news || []);
+    if (news.length) {
+      const isSale = t => /セール|値下げ|プライムデー|割引|お買い得|タイムセール|最安|安い|底値/.test(t);
+      const relTime = iso => {
+        if (!iso) return '';
+        const diff = (Date.now() - new Date(iso).getTime()) / 86400000;
+        if (diff < 1) return '今日';
+        if (diff < 2) return '昨日';
+        if (diff < 30) return `${Math.floor(diff)}日前`;
+        return new Date(iso).toLocaleDateString('ja-JP', { month: 'numeric', day: 'numeric' });
+      };
+      const newsHtml = news.slice(0, 20).map(n => {
+        const fresh = n.firstSeen && (Date.now() - new Date(n.firstSeen).getTime()) < 86400000 * 1.5;
+        return `<a class="news-item" href="${n.link}" target="_blank" rel="noopener">
+          <div class="news-title">${isSale(n.title) ? '🔥 ' : ''}${n.title}</div>
+          <div class="news-meta">
+            ${fresh ? '<span class="news-new">NEW</span>' : ''}
+            <span>${n.source || ''}</span>
+            <span>${relTime(n.pubDate || n.firstSeen)}</span>
+            ${isSale(n.title) ? '<span class="news-sale">セール</span>' : ''}
+          </div>
+        </a>`;
+      }).join('');
+      document.getElementById('news').innerHTML =
+        `<div class="section-title">📰 セール・ニュース</div>${newsHtml}`;
+    }
   })
   .catch(e => {
     document.getElementById('list').innerHTML = `<div class="loading">データ読み込み失敗: ${e.message}</div>`;
