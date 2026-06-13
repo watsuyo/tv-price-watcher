@@ -71,6 +71,11 @@
   .src.na { opacity: .45; }
   footer { text-align: center; font-size: .7rem; color: var(--sub); padding: 18px 0 30px; line-height: 1.7; }
   .loading { text-align: center; color: var(--sub); padding: 40px 0; }
+  .guide-link { display: block; background: var(--card); border: 1px solid var(--gold);
+    border-radius: 12px; padding: 12px 14px; margin-bottom: 14px; text-decoration: none;
+    color: inherit; font-size: .85rem; }
+  .guide-link b { color: var(--gold); }
+  .guide-link .arrow { float: right; color: var(--sub); }
   .section-title { font-size: .95rem; font-weight: 700; margin: 22px 4px 10px; display: flex; align-items: center; gap: 6px; }
   .news-item {
     display: block; background: var(--card); border: 1px solid var(--border); border-radius: 10px;
@@ -89,6 +94,7 @@
   <h1>📺 55型 有機EL 価格ウォッチ</h1>
   <div class="updated" id="updated">読み込み中…</div>
 </header>
+<a class="guide-link" href="guide.html"><span class="arrow">→</span>📘 <b>購入ガイド（調査まとめ）</b> ― どれを買う？パネルの違い・買い時</a>
 <div class="summary" id="summary"></div>
 <main id="list"><div class="loading">データ取得中…</div></main>
 <section id="news"></section>
