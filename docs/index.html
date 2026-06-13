@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>55型 有機EL 価格ウォッチ</title>
+<style>
+  :root {
+    --bg: #0f1115; --card: #1a1d24; --border: #2a2e38;
+    --text: #e8eaed; --sub: #9aa0a6; --accent: #4dabf7;
+    --up: #ff6b6b; --down: #51cf66; --gold: #ffd43b;
+  }
+  @media (prefers-color-scheme: light) {
+    :root {
+      --bg: #f5f6f8; --card: #ffffff; --border: #e2e5ea;
+      --text: #1a1d24; --sub: #6b7280; --accent: #1971c2;
+      --up: #e03131; --down: #2f9e44; --gold: #f08c00;
+    }
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", sans-serif;
+    background: var(--bg); color: var(--text); padding: 12px; max-width: 720px; margin: 0 auto;
+  }
+  header { padding: 8px 4px 16px; }
+  h1 { font-size: 1.15rem; font-weight: 700; }
+  .updated { font-size: .75rem; color: var(--sub); margin-top: 4px; }
+  .summary {
+    background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+    padding: 12px 14px; margin-bottom: 14px; font-size: .85rem; line-height: 1.6;
+  }
+  .summary b { color: var(--gold); }
+  .card {
+    background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+    padding: 14px; margin-bottom: 10px; display: block; text-decoration: none; color: inherit;
+    transition: border-color .15s;
+  }
+  .card:active { border-color: var(--accent); }
+  .card-top { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }
+  .brand-model { font-size: .95rem; font-weight: 700; }
+  .brand { color: var(--accent); margin-right: 6px; }
+  .badge {
+    font-size: .65rem; padding: 2px 7px; border-radius: 999px; white-space: nowrap;
+    border: 1px solid var(--gold); color: var(--gold);
+  }
+  .title { font-size: .72rem; color: var(--sub); margin: 6px 0 10px; line-height: 1.45;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .price-row { display: flex; align-items: flex-end; justify-content: space-between; gap: 10px; }
+  .price { font-size: 1.5rem; font-weight: 800; letter-spacing: -.5px; }
+  .price .yen { font-size: .85rem; font-weight: 600; margin-right: 1px; }
+  .price.na { font-size: .9rem; color: var(--sub); font-weight: 500; }
+  .diff { font-size: .75rem; font-weight: 700; }
+  .diff.down { color: var(--down); }
+  .diff.up { color: var(--up); }
+  .diff.flat { color: var(--sub); font-weight: 500; }
+  .range { font-size: .68rem; color: var(--sub); margin-top: 3px; }
+  svg.spark { display: block; }
+  .notes { font-size: .72rem; color: var(--sub); margin-top: 8px; padding-top: 8px;
+    border-top: 1px dashed var(--border); line-height: 1.5; }
+  .notes b { color: var(--text); font-weight: 600; }
+  footer { text-align: center; font-size: .7rem; color: var(--sub); padding: 18px 0 30px; line-height: 1.7; }
+  .loading { text-align: center; color: var(--sub); padding: 40px 0; }
+</style>
+</head>
+<body>
+<header>
+  <h1>📺 55型 有機EL 価格ウォッチ</h1>
+  <div class="updated" id="updated">読み込み中…</div>
+</header>
+<div class="summary" id="summary"></div>
+<main id="list"><div class="loading">データ取得中…</div></main>
+<footer>
+  Amazon.co.jp 検索結果(53〜62型 / 有機EL / 4K / ¥85,000〜180,000)を毎日 7:00 / 15:00 に自動取得<br>
+  値下がり時は ntfy 通知 / カードタップでAmazon商品ページへ
+</footer>
+<script>
+// 機種ごとの補足情報(わかる範囲で手動メンテ)
+const NOTES = {
+  'OLED55B5PJA':  { year: 2025, note: '<b>120Hz</b>・VRR/G-Sync対応・webOS。現行B5世代でこの価格帯の本命' },
+  'OLED55B4PJA':  { year: 2024, note: '120Hz・VRR対応・webOS。B5の型落ち、在庫処分で狙い目' },
+  '4T-C55GQ3':    { year: 2024, note: 'Google TV・Dolby Atmos。シャープ現行エントリー' },
+  '4T-C55ES1':    { year: 2022, note: '高輝度パネル(ES1はEQ1の上位)・Google TV' },
+  '4T-C55EQ1':    { year: 2022, note: 'Google TV。世代が古め、価格次第' },
+  '55X8900L':     { year: 2022, note: '重低音ウーファー搭載・全自動録画。レグザエンジンZR' },
+  '55X9900L':     { year: 2022, note: '当時のレグザ最上位。タイムシフトマシン対応' },
+  'TH-55MZ1800':  { year: 2023, note: 'イネーブルドスピーカー・360立体音響' },
+  'TH-55LZ1800':  { year: 2022, note: '360立体音響。MZ1800の前世代' },
+};
+const fmt = n => '¥' + n.toLocaleString('ja-JP');
+
+function spark(history, w = 110, h = 34) {
+  const pts = history.filter(x => x.p !== null);
+  if (pts.length < 2) return '';
+  const ps = pts.map(x => x.p);
+  const min = Math.min(...ps), max = Math.max(...ps);
+  const span = (max - min) || 1;
+  const step = w / (pts.length - 1);
+  const path = pts.map((x, i) =>
+    `${i ? 'L' : 'M'}${(i * step).toFixed(1)},${(h - 4 - ((x.p - min) / span) * (h - 8)).toFixed(1)}`
+  ).join(' ');
+  const last = pts.at(-1).p, first = pts[0].p;
+  const color = last < first ? 'var(--down)' : last > first ? 'var(--up)' : 'var(--sub)';
+  return `<svg class="spark" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}">
+    <path d="${path}" fill="none" stroke="${color}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  </svg>`;
+}
+
+fetch('data.json?t=' + Date.now())
+  .then(r => r.json())
+  .then(data => {
+    const d = new Date(data.updatedAt);
+    document.getElementById('updated').textContent =
+      '最終更新: ' + d.toLocaleString('ja-JP', { month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit', timeZone: 'Asia/Tokyo' });
+
+    const products = Object.values(data.products).map(p => {
+      const valid = p.history.filter(h => h.p !== null);
+      const latest = valid.at(-1)?.p ?? null;
+      const prev = valid.at(-2)?.p ?? null;
+      const lowest = valid.length ? Math.min(...valid.map(h => h.p)) : null;
+      const highest = valid.length ? Math.max(...valid.map(h => h.p)) : null;
+      return { ...p, latest, prev, lowest, highest };
+    }).sort((a, b) => (a.latest ?? Infinity) - (b.latest ?? Infinity));
+
+    // サマリー: 最安と直近の動き
+    const cheapest = products.find(p => p.latest !== null);
+    const dropped = products.filter(p => p.latest !== null && p.prev !== null && p.latest < p.prev);
+    document.getElementById('summary').innerHTML =
+      (cheapest ? `現在の最安: <b>${cheapest.brand} ${cheapest.model}</b> ${fmt(cheapest.latest)}` : 'データ収集中') +
+      (dropped.length ? `<br>📉 前回から値下がり: ${dropped.map(p => p.model).join(', ')}` : '');
+
+    document.getElementById('list').innerHTML = products.map(p => {
+      const note = NOTES[p.model];
+      const isLowest = p.latest !== null && p.latest === p.lowest && p.highest !== p.lowest;
+      let diffHtml = '';
+      if (p.latest !== null && p.prev !== null) {
+        const diff = p.latest - p.prev;
+        diffHtml = diff < 0 ? `<span class="diff down">▼ ${fmt(-diff)}</span>`
+                 : diff > 0 ? `<span class="diff up">▲ ${fmt(diff)}</span>`
+                 : `<span class="diff flat">→ 変動なし</span>`;
+      }
+      return `<a class="card" href="${p.url}" target="_blank" rel="noopener">
+        <div class="card-top">
+          <span class="brand-model"><span class="brand">${p.brand}</span>${p.model}${note ? ` <span style="color:var(--sub);font-weight:400;font-size:.75rem">(${note.year}年)</span>` : ''}</span>
+          ${isLowest ? '<span class="badge">観測最安値</span>' : ''}
+        </div>
+        <div class="title">${p.title}</div>
+        <div class="price-row">
+          <div>
+            <div class="price ${p.latest === null ? 'na' : ''}">${p.latest !== null ? `<span class="yen">¥</span>${p.latest.toLocaleString()}` : '価格非表示(出品確認はリンク先で)'}</div>
+            ${p.latest !== null ? `<div class="range">${diffHtml}${diffHtml ? ' / ' : ''}観測: ${fmt(p.lowest)}〜${fmt(p.highest)}</div>` : ''}
+          </div>
+          ${spark(p.history)}
+        </div>
+        ${note ? `<div class="notes">${note.note}</div>` : ''}
+      </a>`;
+    }).join('');
+  })
+  .catch(e => {
+    document.getElementById('list').innerHTML = `<div class="loading">データ読み込み失敗: ${e.message}</div>`;
+  });
+</script>
+</body>
+</html>
