@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-06-14T22:00:10.674Z",
+ "updatedAt": "2026-06-15T06:00:10.769Z",
  "products": {
   "OLED55B5PJA": {
    "model": "OLED55B5PJA",
@@ -68,6 +68,13 @@
     },
     {
      "t": "2026-06-14T22:00:10.674Z",
+     "a": 139800,
+     "k": null,
+     "r": 159800,
+     "q": 159800
+    },
+    {
+     "t": "2026-06-15T06:00:10.769Z",
      "a": 139800,
      "k": null,
      "r": 159800,
@@ -148,6 +155,13 @@
     },
     {
      "t": "2026-06-14T22:00:10.674Z",
+     "a": 157000,
+     "k": 157000,
+     "r": 165000,
+     "q": 214000
+    },
+    {
+     "t": "2026-06-15T06:00:10.769Z",
      "a": 157000,
      "k": 157000,
      "r": 165000,
@@ -233,6 +247,13 @@
      "k": 129800,
      "r": 139500,
      "q": 134050
+    },
+    {
+     "t": "2026-06-15T06:00:10.769Z",
+     "a": 138105,
+     "k": 129800,
+     "r": 139500,
+     "q": 134050
     }
    ],
    "urls": {
@@ -314,6 +335,13 @@
      "k": 125800,
      "r": 116580,
      "q": null
+    },
+    {
+     "t": "2026-06-15T06:00:10.769Z",
+     "a": 139490,
+     "k": 127499,
+     "r": 116580,
+     "q": null
     }
    ],
    "urls": {
@@ -391,6 +419,13 @@
     },
     {
      "t": "2026-06-14T22:00:10.674Z",
+     "a": null,
+     "k": 146000,
+     "r": 99000,
+     "q": null
+    },
+    {
+     "t": "2026-06-15T06:00:10.769Z",
      "a": null,
      "k": 146000,
      "r": 99000,
@@ -476,6 +511,13 @@
      "k": null,
      "r": 118800,
      "q": null
+    },
+    {
+     "t": "2026-06-15T06:00:10.769Z",
+     "a": null,
+     "k": null,
+     "r": 118800,
+     "q": null
     }
    ],
    "urls": {
@@ -553,6 +595,13 @@
     },
     {
      "t": "2026-06-14T22:00:10.674Z",
+     "a": null,
+     "k": 239800,
+     "r": 142440,
+     "q": null
+    },
+    {
+     "t": "2026-06-15T06:00:10.769Z",
      "a": null,
      "k": 239800,
      "r": 142440,
@@ -638,6 +687,13 @@
      "k": 198000,
      "r": 201978,
      "q": null
+    },
+    {
+     "t": "2026-06-15T06:00:10.769Z",
+     "a": null,
+     "k": 198000,
+     "r": 201978,
+     "q": null
     }
    ],
    "urls": {
@@ -715,6 +771,13 @@
     },
     {
      "t": "2026-06-14T22:00:10.674Z",
+     "a": null,
+     "k": 194800,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-15T06:00:10.769Z",
      "a": null,
      "k": 194800,
      "r": null,
@@ -874,6 +937,13 @@
      "k": null,
      "r": 214080,
      "q": null
+    },
+    {
+     "t": "2026-06-15T06:00:10.769Z",
+     "a": null,
+     "k": null,
+     "r": 214080,
+     "q": null
     }
    ],
    "urls": {
@@ -951,6 +1021,13 @@
     },
     {
      "t": "2026-06-14T22:00:10.674Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-15T06:00:10.769Z",
      "a": null,
      "k": null,
      "r": null,
@@ -1036,6 +1113,13 @@
      "k": 170000,
      "r": 87780,
      "q": null
+    },
+    {
+     "t": "2026-06-15T06:00:10.769Z",
+     "a": 170000,
+     "k": 170000,
+     "r": 87780,
+     "q": null
     }
    ],
    "urls": {
@@ -1113,6 +1197,13 @@
     },
     {
      "t": "2026-06-14T22:00:10.674Z",
+     "a": null,
+     "k": null,
+     "r": 102000,
+     "q": 102000
+    },
+    {
+     "t": "2026-06-15T06:00:10.769Z",
      "a": null,
      "k": null,
      "r": 102000,
@@ -1198,6 +1289,13 @@
      "k": 229000,
      "r": null,
      "q": null
+    },
+    {
+     "t": "2026-06-15T06:00:10.769Z",
+     "a": null,
+     "k": 229000,
+     "r": null,
+     "q": null
     }
    ],
    "urls": {
@@ -1275,6 +1373,13 @@
     },
     {
      "t": "2026-06-14T22:00:10.674Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-15T06:00:10.769Z",
      "a": null,
      "k": null,
      "r": null,
@@ -1360,6 +1465,13 @@
      "k": null,
      "r": 98280,
      "q": null
+    },
+    {
+     "t": "2026-06-15T06:00:10.769Z",
+     "a": null,
+     "k": null,
+     "r": 98280,
+     "q": null
     }
    ],
    "urls": {
@@ -1437,6 +1549,13 @@
     },
     {
      "t": "2026-06-14T22:00:10.674Z",
+     "a": null,
+     "k": 230500,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-15T06:00:10.769Z",
      "a": null,
      "k": 230500,
      "r": null,
@@ -1522,6 +1641,13 @@
      "k": 170000,
      "r": 134400,
      "q": null
+    },
+    {
+     "t": "2026-06-15T06:00:10.769Z",
+     "a": null,
+     "k": 170000,
+     "r": 134400,
+     "q": null
     }
    ],
    "urls": {
@@ -1603,6 +1729,13 @@
      "k": null,
      "r": 244570,
      "q": null
+    },
+    {
+     "t": "2026-06-15T06:00:10.769Z",
+     "a": null,
+     "k": null,
+     "r": 244570,
+     "q": null
     }
    ],
    "urls": {
@@ -1615,6 +1748,38 @@
   }
  },
  "news": [
+  {
+   "title": "【Amazonプライムデー】テレビのおすすめ対象商品まとめ＆攻略法を紹介。4Kレグザがほぼ半額です",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqMGhBRlYxNDIxc1F4cDVFcDF1N1VXVVJzazVxb21YR2tJc1NEQWNQZGJWcHYyZnZaUUh0NlR4ZE9ZS2s1WnNvTE1kZXZuTm8?oc=5",
+   "source": "ROOMIE（ルーミー）",
+   "pubDate": "Mon, 14 Jul 2025 07:00:00 GMT",
+   "q": "4K テレビ 安く 買う",
+   "firstSeen": "2026-06-15T06:00:10.769Z"
+  },
+  {
+   "title": "【徹底比較】4Kテレビのおすすめ人気ランキング【2026年6月】",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9GbkFDeF9kN0h0R2RTQTJKRThJQUc3TG04TFNVRHByMU03TFBXMVNWb1U1U3VqSl8yT1dB?oc=5",
+   "source": "マイベスト",
+   "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
+   "q": "4K テレビ 安く 買う",
+   "firstSeen": "2026-06-15T06:00:10.769Z"
+  },
+  {
+   "title": "【Amazonセール】4K有機ELテレビ「REGZA 65X8900L」がお買い得",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rRjJ1V044X1lTcWJ3azJKb2tuTXR2WkU4RzkxSjdFSHZBVkxUdXRReEJxTEU3WFdzOVdQZWw4dng2ZHlKRnllLXJJdGxvbHZmVF80bm5MQWc4Qm1Hb2dlZmJsOGI1QQ?oc=5",
+   "source": "GAME Watch",
+   "pubDate": "Thu, 22 Jan 2026 08:00:00 GMT",
+   "q": "有機EL テレビ セール",
+   "firstSeen": "2026-06-15T06:00:10.769Z"
+  },
+  {
+   "title": "【Amazonセール】LGの65V型有機ELテレビがセール価格で登場。2026年モデルもラインナップ",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yNFdVc29tS2Q2T3lVMVpJRVlNdzhoOUl0b2lqUHF0MU1YekZ4b0V6cWh2VzlxNVJaaldPMDNBVUwxOEF1NjFBUGNfZWtLbEVkZkdrUm9qc194R2pwYkFBd1FoMHBfdw?oc=5",
+   "source": "GAME Watch",
+   "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
+   "q": "有機EL テレビ セール",
+   "firstSeen": "2026-06-15T06:00:10.769Z"
+  },
   {
    "title": "【最大55％オフ】Amazonプライムデー有機ELテレビ＆4K液晶テレビセールまとめ。東芝REGZA、シャープAQUOS、ハイセンス、TLC、Xiaomiなどが対象",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1MkZobU94RnBsVVBSdWlySnVDNDV3dDV1bDltU1ZuVm8td0dNcFJFX0o4dXdReDFYR3FGWk02Yl8zRVNQaDNFdkJfQS1qZ3B3TExCWDlDREsydw?oc=5",
@@ -1900,38 +2065,6 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sWDJQaktJdlVaTHpwWktpVW51MXA5bDduSkpjY3Y2R1Fsb1Vsb2gyOElISWV5WmZTc1VZUkJWMTVkWVFtMUpWZEhObTJ6NEoyVFhFSWxfemtiandWa2plVl9leFdQWEJPM2NCV2lwcFgtV2M?oc=5",
    "source": "AV Watch",
    "pubDate": "Fri, 01 May 2026 07:00:00 GMT",
-   "q": "有機EL テレビ セール",
-   "firstSeen": "2026-06-13T02:17:45.185Z"
-  },
-  {
-   "title": "【Amazonセール】LGの48V型有機ELテレビ「OLED48B5PJA」（2025年モデル）がお買い得",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PWEhqcUMxeW9Qekd5VzZVSFV6RW5UcW1oQ2NqWktHOGVfME4yVHFfMFRrRFUwbnNJWjRUdmRMSnZKWm9wYUlxV1dyWm5uU050WEdINWh5WU9tUFZNTEItWnRsa0Fzdw?oc=5",
-   "source": "GAME Watch",
-   "pubDate": "Tue, 19 May 2026 07:00:00 GMT",
-   "q": "有機EL テレビ セール",
-   "firstSeen": "2026-06-13T02:17:45.185Z"
-  },
-  {
-   "title": "【有機ELレグザ半額】ゲーム特化したハイグレードモデル『REGZA 55X8900R』が18万円引きで登場《楽天スーパーセール》",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YSGh0Ylp2Sm1CWUlmaHk5ZUlCQ3hZWVRpOXlxZTh3T0Q3Ti1hTm55MkhaUzN4dlFaZzlDQnNkNF8xc1gta2lvblQtZTUyOXJZWk1nWDhsa1F1Zw?oc=5",
-   "source": "電撃オンライン",
-   "pubDate": "Fri, 06 Mar 2026 08:00:00 GMT",
-   "q": "有機EL テレビ セール",
-   "firstSeen": "2026-06-13T02:17:45.185Z"
-  },
-  {
-   "title": "LGの55型有機EL TV「LG 55V型有機ELTV OLED55B5PJA」が16％オフの13万8600円に - ITmedia PC USER",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UaDFLWDA0X256cnN5NWV0bF9KSlB0TjJ2NGN2TDNNT1hKYjhuVmRDZ3lNbG16QlV4MnVIVVR1dWx4ejRoSXVMVFhSNDIwTjNQdjZNaC1uakdhUFVvX0ptb2Q2d014RFdPYlNVdG5xc9IBaEFVX3lxTE14Mmhhd3VONWpSbjNYSXVFR2dpUGhEc3Nub0lPcHkwRnBnVE5zMnd5YTF2ZW5jc0ZzaWE4d2F2WWpjWEZxbFBmV2JSSkNFRVk3Unk5cjd2aUY4WXlETDZuWDQwWGRPWDQy?oc=5",
-   "source": "ITmedia",
-   "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
-   "q": "有機EL テレビ セール",
-   "firstSeen": "2026-06-13T02:17:45.185Z"
-  },
-  {
-   "title": "【Amazonセール】LGの65V型4K有機ELテレビ（2025年モデル）などがお買い得",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rbWR1MTJfdzZkRjdxRFRBdTRUV1ZXX1BJS3FpUTBGWXBlQVJzb1k1OHZNaEJGbnJReUhOY1M1aUJ5TkpfbExKcXlEVEpVT3h6WEpxMU9aVTN4QUZLdkVN?oc=5",
-   "source": "ライブドアニュース",
-   "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
    "q": "有機EL テレビ セール",
    "firstSeen": "2026-06-13T02:17:45.185Z"
   }
