@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-06-15T22:00:11.475Z",
+ "updatedAt": "2026-06-16T06:00:10.176Z",
  "products": {
   "OLED55B5PJA": {
    "model": "OLED55B5PJA",
@@ -82,6 +82,13 @@
     },
     {
      "t": "2026-06-15T22:00:11.475Z",
+     "a": 152525,
+     "k": null,
+     "r": 159800,
+     "q": 159800
+    },
+    {
+     "t": "2026-06-16T06:00:10.176Z",
      "a": 152525,
      "k": null,
      "r": 159800,
@@ -176,6 +183,13 @@
     },
     {
      "t": "2026-06-15T22:00:11.475Z",
+     "a": 157000,
+     "k": 157000,
+     "r": 165000,
+     "q": 214000
+    },
+    {
+     "t": "2026-06-16T06:00:10.176Z",
      "a": 157000,
      "k": 157000,
      "r": 165000,
@@ -275,6 +289,13 @@
      "k": 129800,
      "r": 139500,
      "q": 134050
+    },
+    {
+     "t": "2026-06-16T06:00:10.176Z",
+     "a": 138105,
+     "k": 129800,
+     "r": 139500,
+     "q": 134050
     }
    ],
    "urls": {
@@ -366,6 +387,13 @@
     },
     {
      "t": "2026-06-15T22:00:11.475Z",
+     "a": 139490,
+     "k": 127499,
+     "r": 116580,
+     "q": null
+    },
+    {
+     "t": "2026-06-16T06:00:10.176Z",
      "a": 139490,
      "k": 127499,
      "r": 116580,
@@ -465,6 +493,13 @@
      "k": 146000,
      "r": 99000,
      "q": null
+    },
+    {
+     "t": "2026-06-16T06:00:10.176Z",
+     "a": null,
+     "k": 146000,
+     "r": 99000,
+     "q": null
     }
    ],
    "urls": {
@@ -556,6 +591,13 @@
     },
     {
      "t": "2026-06-15T22:00:11.475Z",
+     "a": null,
+     "k": null,
+     "r": 118800,
+     "q": null
+    },
+    {
+     "t": "2026-06-16T06:00:10.176Z",
      "a": null,
      "k": null,
      "r": 118800,
@@ -655,6 +697,13 @@
      "k": 239800,
      "r": 142440,
      "q": null
+    },
+    {
+     "t": "2026-06-16T06:00:10.176Z",
+     "a": null,
+     "k": 239800,
+     "r": 142440,
+     "q": null
     }
    ],
    "urls": {
@@ -750,6 +799,13 @@
      "k": 198000,
      "r": 201978,
      "q": null
+    },
+    {
+     "t": "2026-06-16T06:00:10.176Z",
+     "a": null,
+     "k": 198000,
+     "r": 201978,
+     "q": null
     }
    ],
    "urls": {
@@ -841,6 +897,13 @@
     },
     {
      "t": "2026-06-15T22:00:11.475Z",
+     "a": null,
+     "k": 194800,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-16T06:00:10.176Z",
      "a": null,
      "k": 194800,
      "r": null,
@@ -1014,6 +1077,13 @@
      "k": null,
      "r": 214080,
      "q": null
+    },
+    {
+     "t": "2026-06-16T06:00:10.176Z",
+     "a": null,
+     "k": null,
+     "r": 214080,
+     "q": null
     }
    ],
    "urls": {
@@ -1105,6 +1175,13 @@
     },
     {
      "t": "2026-06-15T22:00:11.475Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-16T06:00:10.176Z",
      "a": null,
      "k": null,
      "r": null,
@@ -1204,6 +1281,13 @@
      "k": 170000,
      "r": 87780,
      "q": null
+    },
+    {
+     "t": "2026-06-16T06:00:10.176Z",
+     "a": 170000,
+     "k": 170000,
+     "r": 87780,
+     "q": null
     }
    ],
    "urls": {
@@ -1295,6 +1379,13 @@
     },
     {
      "t": "2026-06-15T22:00:11.475Z",
+     "a": null,
+     "k": null,
+     "r": 102000,
+     "q": 102000
+    },
+    {
+     "t": "2026-06-16T06:00:10.176Z",
      "a": null,
      "k": null,
      "r": 102000,
@@ -1394,6 +1485,13 @@
      "k": 229000,
      "r": null,
      "q": null
+    },
+    {
+     "t": "2026-06-16T06:00:10.176Z",
+     "a": null,
+     "k": 229000,
+     "r": null,
+     "q": null
     }
    ],
    "urls": {
@@ -1485,6 +1583,13 @@
     },
     {
      "t": "2026-06-15T22:00:11.475Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-16T06:00:10.176Z",
      "a": null,
      "k": null,
      "r": null,
@@ -1584,6 +1689,13 @@
      "k": null,
      "r": 98280,
      "q": null
+    },
+    {
+     "t": "2026-06-16T06:00:10.176Z",
+     "a": null,
+     "k": null,
+     "r": 98280,
+     "q": null
     }
    ],
    "urls": {
@@ -1675,6 +1787,13 @@
     },
     {
      "t": "2026-06-15T22:00:11.475Z",
+     "a": null,
+     "k": 230500,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-16T06:00:10.176Z",
      "a": null,
      "k": 230500,
      "r": null,
@@ -1774,6 +1893,13 @@
      "k": 170000,
      "r": 134400,
      "q": null
+    },
+    {
+     "t": "2026-06-16T06:00:10.176Z",
+     "a": null,
+     "k": 170000,
+     "r": 134400,
+     "q": null
     }
    ],
    "urls": {
@@ -1869,6 +1995,13 @@
      "k": null,
      "r": 244570,
      "q": null
+    },
+    {
+     "t": "2026-06-16T06:00:10.176Z",
+     "a": null,
+     "k": null,
+     "r": 244570,
+     "q": null
     }
    ],
    "urls": {
@@ -1881,6 +2014,46 @@
   }
  },
  "news": [
+  {
+   "title": "65インチテレビのおすすめ6選 高画質mini LEDならこのサイズ！【2026年】",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43UnBKeFlpc0toaExPLWZqSmtPM2lfSkxyLVJZdTlCOHg5czlubWNzcHBRZU9JTEhfUEZxMFVYbXF3VHhSYTQ0bmdFbTJpdUdsalE?oc=5",
+   "source": "価格.comマガジン",
+   "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT",
+   "q": "55型 有機EL おすすめ",
+   "firstSeen": "2026-06-16T06:00:10.176Z"
+  },
+  {
+   "title": "＜値下げ＞フラッグシップモデル「BRAVIA 9（XR90シリーズ）」全3サイズともに、「最終値下げ」",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0T2JsVTBrRTdna0N3d2cwYjhvaVBuZHdsN25Ed21JZjhQQ2RaWWN2b2p0UDVDdFJWODFEQlY1WFlaWlBJcnFrZG5CNl8wa09QRzJfR3RQblBPbmYwZGVGeGtB?oc=5",
+   "source": "コール徳島店",
+   "pubDate": "Fri, 06 Mar 2026 08:00:00 GMT",
+   "q": "テレビ 値下げ",
+   "firstSeen": "2026-06-16T06:00:10.176Z"
+  },
+  {
+   "title": "【6月10日】大幅値下げで“今”安い！ テレビの格安・激安な注目製品14選",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kSzZ4dmdud1hfVzNJdGVjZENvbHBIdFN5YkVLWGpGejVuQ3J0dnBhNWRDNWFkbmJxckJZd3lZMEFvS1ZvS2dPNU55ZFhyeHZWYnc?oc=5",
+   "source": "価格.comマガジン",
+   "pubDate": "Wed, 10 Jun 2026 06:27:42 GMT",
+   "q": "テレビ 値下げ",
+   "firstSeen": "2026-06-16T06:00:10.176Z"
+  },
+  {
+   "title": "【Amazonセール】LGの有機ELテレビおよび液晶テレビがお買い得。65V型4K有機ELテレビ（2025年モデル）などがラインナップ",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zUmVUS21fNWRwaFZMNGszeXdPQzVZT0VJdE0tcWVnb2lyRGdVZnl1azU0Q1lUel81X1pJNGZYWkdybF9QazFoUkJpRGdHX2NvNzVZeVNXNXZFRlFzUTZnbTR6M2lBdw?oc=5",
+   "source": "GAME Watch",
+   "pubDate": "Tue, 24 Mar 2026 07:00:00 GMT",
+   "q": "有機EL テレビ セール",
+   "firstSeen": "2026-06-16T06:00:10.176Z"
+  },
+  {
+   "title": "48型4K有機ELテレビが約12万円。Amazonタイムセール【今日みつけたお買い得品】",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sWDJQaktJdlVaTHpwWktpVW51MXA5bDduSkpjY3Y2R1Fsb1Vsb2gyOElISWV5WmZTc1VZUkJWMTVkWVFtMUpWZEhObTJ6NEoyVFhFSWxfemtiandWa2plVl9leFdQWEJPM2NCV2lwcFgtV2M?oc=5",
+   "source": "AV Watch",
+   "pubDate": "Fri, 01 May 2026 07:00:00 GMT",
+   "q": "有機EL テレビ セール",
+   "firstSeen": "2026-06-16T06:00:10.176Z"
+  },
   {
    "title": "【6月15日更新】Apple TV 4Kはどこで買う？最安値は？安く買える５つの方法を徹底解説",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iNklVOEFjNlJxUURuMEFQUGdyWl8wSm5YV3RETHhiR2UyNGxKbDZBUVg0ZnpYMTRuYXFkb0RvSUdHVmpkNVVER0VvWW1ZdDJSZk92NmNkX01tTFprMVZ3WVpwWXBoYXpXR09ub3hnX1I?oc=5",
@@ -2158,46 +2331,6 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aYzNIM19TUE5Gb2ZoYnE2NmM4OVVhNEN6TkJmS3pVR3hIQ0pOT0JPc1FhRC1salA0bDlzZ2l3VENZaHFZZ21Sc0xBLVBTdWZqZjAw?oc=5",
    "source": "매일경제",
    "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
-   "q": "テレビ 値下げ",
-   "firstSeen": "2026-06-13T02:17:45.185Z"
-  },
-  {
-   "title": "倉庫には“大量の米” 泣く泣く値下げ… 米の価格高止まりで“訳あり米”の売れ行きは好調",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDcE1adDdPYzI2dk9wZ21SQm8wVU5HWU55WUlTZEpqb2M0X19Ub3FEZnBBYkdHRHNJeUs4NFFjS3Nxc2k0cTAyNVVaeTFNUUlrZWF1NGJ3cTczZHJJT25vQTRaNA?oc=5",
-   "source": "TBS NEWS DIG",
-   "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
-   "q": "テレビ 値下げ",
-   "firstSeen": "2026-06-13T02:17:45.185Z"
-  },
-  {
-   "title": "中国電力　7〜9月使用の電気料金値下げ　政府の支援策を活用",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IMkhWUXAyclVWTUh6Qk5QQnp1dnh4YXk0aWlwdEZKQzhVS1JwNWhJNGF6N29GcEhCUjcyeXM2Tzk3SXMxZHJaMkZoNnluQ040NkVTLUd1cFJ5X3JvTmVZdS1DTUVEMU1BckdfZmk5M1JrcGItdGRIX3I1SdIBgAFBVV95cUxOWHBvSlMxeER1c24wcHVyejJON3MycjdfaHN1VnE0WllvSEJJNVF3TG9qRjdwa041eEFyd0lsZ1VxaUkxeVhsaEdkaGNXa1Z0bHNoamZCWGNScUtxVGpnaTdXdGlUNGxtRE1XcGpTR09FUVZqWWpuZEUtWGlYZmNWRw?oc=5",
-   "source": "ｄメニューニュース",
-   "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT",
-   "q": "テレビ 値下げ",
-   "firstSeen": "2026-06-13T02:17:45.185Z"
-  },
-  {
-   "title": "AQUOSテレビやMITSUBISHI冷蔵庫が値下げ、展示家電SALEが期間限定開催",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MQUdKMjFQWVlwbnpMZ0hubFFhVXRkaXluaE1zZzhMU2NvZlVtUWt5bDRPLUZrN1BFT3RHMnhfMXJEaUhUblAzTFNMV1V5ZjZ1VW5iQg?oc=5",
-   "source": "ASCII.jp",
-   "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
-   "q": "テレビ 値下げ",
-   "firstSeen": "2026-06-13T02:17:45.185Z"
-  },
-  {
-   "title": "SONY 4K液晶テレビ ブラビア BRAVIA X81Lシリーズ【85型～43型】最大46,200円値下げのタイムセール。2026年6月17日(水)まで。",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EY2N4M2Y5amlUZVlqeVpZejBVN3ZGd3A5RDlHeVlVcXFDTFVFZVR2VFRNSHBQMHByX2Z3VWs3X05POEZzNW8wc3Q2WC03VXBmdFU1RjhUMmg4dw?oc=5",
-   "source": "ソニーが基本的に好き。",
-   "pubDate": "Wed, 10 Jun 2026 15:47:58 GMT",
-   "q": "テレビ 値下げ",
-   "firstSeen": "2026-06-13T02:17:45.185Z"
-  },
-  {
-   "title": "【米価】販売店は値下げを決断 他店との価格競争も《新潟》（TeNYテレビ新潟）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RaFluODdoT19mUzRQa1I4bkE0UjZfZGNVV1RGWWlFYTdoNi1OQnZmUWk4a1RlaXNReFpsNmI3YjdmWHd0M0FCb1c5SlM5T3FyOUdkcUhpZzlJNWg0QXJQX0UwQU1rZ3lMUHRCS3oxSjN1LU9GS1F5Y2hXdFdxa2c?oc=5",
-   "source": "Yahoo!ニュース",
-   "pubDate": "Wed, 10 Jun 2026 12:00:00 GMT",
    "q": "テレビ 値下げ",
    "firstSeen": "2026-06-13T02:17:45.185Z"
   }
