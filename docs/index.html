@@ -87,6 +87,14 @@
   .news-meta { font-size: .68rem; color: var(--sub); margin-top: 5px; display: flex; gap: 8px; align-items: center; }
   .news-sale { color: var(--down); font-weight: 700; }
   .news-new { background: var(--accent); color: #fff; font-size: .6rem; padding: 1px 6px; border-radius: 999px; font-weight: 700; }
+  .filters { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 10px 12px; margin-bottom: 14px; }
+  .filter-row { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; margin-bottom: 8px; }
+  .filter-row:last-child { margin-bottom: 0; }
+  .filter-label { font-size: .7rem; color: var(--sub); width: 42px; flex-shrink: 0; }
+  .chip { font-size: .72rem; padding: 5px 11px; border-radius: 999px; border: 1px solid var(--border);
+    background: transparent; color: var(--sub); cursor: pointer; font-family: inherit; line-height: 1; }
+  .chip.active { border-color: var(--accent); color: var(--accent); font-weight: 700; }
+  .filter-count { font-size: .68rem; color: var(--sub); margin: 2px 4px 10px; }
 </style>
 </head>
 <body>
@@ -96,6 +104,8 @@
 </header>
 <a class="guide-link" href="guide.html"><span class="arrow">→</span>📘 <b>購入ガイド（調査まとめ）</b> ― どれを買う？パネルの違い・買い時</a>
 <div class="summary" id="summary"></div>
+<div class="filters" id="filters" style="display:none"></div>
+<div class="filter-count" id="filterCount" style="display:none"></div>
 <main id="list"><div class="loading">データ取得中…</div></main>
 <section id="news"></section>
 <footer>
@@ -163,7 +173,21 @@ fetch('data.json?t=' + Date.now())
       (cheapest ? `現在の最安: <b>${cheapest.brand} ${cheapest.model}</b> ${fmt(cheapest.latest)}` : 'データ収集中') +
       (dropped.length ? `<br>📉 前回から値下がり: ${dropped.map(p => p.model).join(', ')}` : '');
 
-    document.getElementById('list').innerHTML = products.map(p => {
+    // ----- スペック絞り込み -----
+    const specOf = p => {
+      const n = NOTES[p.model];
+      return { year: n?.year ?? null, hz120: /120\s?Hz|倍速/.test(n?.note ?? '') };
+    };
+    const filterState = { brand: null, year: null, hz120: false };
+    const passes = p => {
+      const s = specOf(p);
+      if (filterState.brand && p.brand !== filterState.brand) return false;
+      if (filterState.year && s.year !== filterState.year) return false;
+      if (filterState.hz120 && !s.hz120) return false;
+      return true;
+    };
+
+    const cardHtml = p => {
       const note = NOTES[p.model];
       const isLowest = p.latest !== null && p.latest === p.lowest && p.highest !== p.lowest;
       let diffHtml = '';
@@ -203,10 +227,57 @@ fetch('data.json?t=' + Date.now())
         <div class="sources">${sourcesHtml}</div>
         ${note ? `<div class="notes">${note.note}</div>` : ''}
       </div>`;
-    }).join('');
+    };
+
+    const brands = [...new Set(products.map(p => p.brand))];
+    const years = [...new Set(products.map(p => specOf(p).year).filter(Boolean))].sort((a, b) => b - a);
+    const hasHz120 = products.some(p => specOf(p).hz120);
+
+    const renderFilters = () => {
+      // onclick は二重引用符属性なので、文字列値は単引用符JSリテラルで埋める(JSON.stringifyの " は属性を壊す)
+      const arg = v => v === null ? 'null' : typeof v === 'string' ? `'${v.replace(/['\\]/g, '\\$&')}'` : String(v);
+      const chip = (label, active, type, val) =>
+        `<button class="chip ${active ? 'active' : ''}" onclick="window.__setFilter('${type}', ${arg(val)})">${label}</button>`;
+      const rows = [];
+      if (brands.length > 1) rows.push(
+        `<div class="filter-row"><span class="filter-label">ブランド</span>` +
+        chip('すべて', !filterState.brand, 'brand', null) +
+        brands.map(b => chip(b, filterState.brand === b, 'brand', b)).join('') + `</div>`);
+      if (years.length > 1) rows.push(
+        `<div class="filter-row"><span class="filter-label">年式</span>` +
+        chip('すべて', !filterState.year, 'year', null) +
+        years.map(y => chip(`${y}年`, filterState.year === y, 'year', y)).join('') + `</div>`);
+      if (hasHz120) rows.push(
+        `<div class="filter-row"><span class="filter-label">機能</span>` +
+        chip('120Hz / 倍速', filterState.hz120, 'hz120', true) + `</div>`);
+      const box = document.getElementById('filters');
+      box.innerHTML = rows.join('');
+      box.style.display = rows.length ? 'block' : 'none';
+    };
+
+    const renderList = () => {
+      const shown = products.filter(passes);
+      document.getElementById('list').innerHTML = shown.length
+        ? shown.map(cardHtml).join('')
+        : `<div class="loading">条件に合う機種がありません</div>`;
+      const cnt = document.getElementById('filterCount');
+      const active = filterState.brand || filterState.year || filterState.hz120;
+      cnt.textContent = active ? `${shown.length} / ${products.length} 件を表示` : '';
+      cnt.style.display = active ? 'block' : 'none';
+    };
+
+    window.__setFilter = (type, val) => {
+      filterState[type] = type === 'hz120' ? !filterState.hz120 : val;
+      renderFilters();
+      renderList();
+    };
+
+    renderFilters();
+    renderList();
 
     // ----- セール・ニュース -----
-    const news = (data.news || []);
+    const news = (data.news || []).slice()
+      .sort((a, b) => new Date(b.pubDate || b.firstSeen || 0) - new Date(a.pubDate || a.firstSeen || 0));
     if (news.length) {
       const isSale = t => /セール|値下げ|プライムデー|割引|お買い得|タイムセール|最安|安い|底値/.test(t);
       const relTime = iso => {

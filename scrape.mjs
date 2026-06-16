@@ -11,6 +11,7 @@ import { fileURLToPath } from 'node:url';
 const ROOT = dirname(fileURLToPath(import.meta.url));
 const DATA_PATH = join(ROOT, 'docs', 'data.json');
 const NTFY_TOPIC = 'https://ntfy.sh/ccr';
+const PAGE_URL = 'https://watsuyo.github.io/tv-price-watcher/'; // 比較表(通知で常に案内)
 const SANITY_MIN = 70000, SANITY_MAX = 250000; // 55型OLEDの妥当価格帯(ケーブル等を除外)
 
 const SEARCH_URL =
@@ -200,7 +201,7 @@ const news = await scrapeNews();
 const existingKeys = new Set(data.news.map(n => n.title.slice(0, 40)));
 const freshNews = news.filter(n => !existingKeys.has(n.title.slice(0, 40)));
 for (const n of freshNews) data.news.unshift({ ...n, firstSeen: now });
-data.news = data.news.slice(0, 40); // 最新40件保持
+// 永続保存: 切り捨てず全件アーカイブ(重複はタイトル先頭40字で排除済み)
 console.log(`news: ${news.length} fetched, ${freshNews.length} new`);
 
 await browser.close();
@@ -212,12 +213,14 @@ console.log(`OK: ${amazon.size} models, ${data.news.length} news items`);
 const notifications = [];
 if (drops.length) notifications.push('📉 値下がり\n' + drops.join('\n'));
 const saleNews = freshNews.filter(n => /セール|値下げ|プライムデー|割引|お買い得|タイムセール|最安/.test(n.title));
-if (saleNews.length) notifications.push('📰 新着セール記事\n' + saleNews.slice(0, 4).map(n => `・${n.title}`).join('\n'));
+if (saleNews.length) notifications.push('📰 新着セール記事\n' + saleNews.slice(0, 4).map(n => `・${n.title}\n  ${n.link}`).join('\n\n'));
 if (notifications.length) {
-  console.log(notifications.join('\n\n'));
+  // 比較表ページを常に案内(本文末尾 + Clickでタップ遷移)
+  const body = notifications.join('\n\n') + `\n\n📊 比較表: ${PAGE_URL}`;
+  console.log(body);
   // ntfy の Title ヘッダは非ASCII不可 → RFC2047(UTF-8 base64)でエンコード
   const title = '=?UTF-8?B?' + Buffer.from('📺 テレビ価格&セール').toString('base64') + '?=';
   try {
-    await fetch(NTFY_TOPIC, { method: 'POST', headers: { Title: title, Tags: 'tv,moneybag', Priority: 'default' }, body: notifications.join('\n\n') });
+    await fetch(NTFY_TOPIC, { method: 'POST', headers: { Title: title, Tags: 'tv,moneybag', Priority: 'default', Click: PAGE_URL }, body });
   } catch (e) { console.error('ntfy failed:', e.message); }
 }
