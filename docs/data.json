@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-06-16T22:00:09.084Z",
+ "updatedAt": "2026-06-17T06:00:10.795Z",
  "products": {
   "OLED55B5PJA": {
    "model": "OLED55B5PJA",
@@ -96,6 +96,13 @@
     },
     {
      "t": "2026-06-16T22:00:09.084Z",
+     "a": 152525,
+     "k": null,
+     "r": 159800,
+     "q": 159800
+    },
+    {
+     "t": "2026-06-17T06:00:10.795Z",
      "a": 152525,
      "k": null,
      "r": 159800,
@@ -204,6 +211,13 @@
     },
     {
      "t": "2026-06-16T22:00:09.084Z",
+     "a": 157000,
+     "k": 157000,
+     "r": 165000,
+     "q": 214000
+    },
+    {
+     "t": "2026-06-17T06:00:10.795Z",
      "a": 157000,
      "k": 157000,
      "r": 165000,
@@ -317,6 +331,13 @@
      "k": 129800,
      "r": 139500,
      "q": 134050
+    },
+    {
+     "t": "2026-06-17T06:00:10.795Z",
+     "a": 138105,
+     "k": 129800,
+     "r": 139500,
+     "q": 134050
     }
    ],
    "urls": {
@@ -422,6 +443,13 @@
     },
     {
      "t": "2026-06-16T22:00:09.084Z",
+     "a": 139490,
+     "k": 127499,
+     "r": 116580,
+     "q": null
+    },
+    {
+     "t": "2026-06-17T06:00:10.795Z",
      "a": 139490,
      "k": 127499,
      "r": 116580,
@@ -535,6 +563,13 @@
      "k": 146000,
      "r": 99000,
      "q": null
+    },
+    {
+     "t": "2026-06-17T06:00:10.795Z",
+     "a": null,
+     "k": 146000,
+     "r": 99000,
+     "q": null
     }
    ],
    "urls": {
@@ -640,6 +675,13 @@
     },
     {
      "t": "2026-06-16T22:00:09.084Z",
+     "a": null,
+     "k": null,
+     "r": 118800,
+     "q": null
+    },
+    {
+     "t": "2026-06-17T06:00:10.795Z",
      "a": null,
      "k": null,
      "r": 118800,
@@ -753,6 +795,13 @@
      "k": 239800,
      "r": 142440,
      "q": null
+    },
+    {
+     "t": "2026-06-17T06:00:10.795Z",
+     "a": null,
+     "k": 239800,
+     "r": 142440,
+     "q": null
     }
    ],
    "urls": {
@@ -862,6 +911,13 @@
      "k": 198000,
      "r": 201978,
      "q": null
+    },
+    {
+     "t": "2026-06-17T06:00:10.795Z",
+     "a": null,
+     "k": 198000,
+     "r": 201978,
+     "q": null
     }
    ],
    "urls": {
@@ -967,6 +1023,13 @@
     },
     {
      "t": "2026-06-16T22:00:09.084Z",
+     "a": null,
+     "k": 194800,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-17T06:00:10.795Z",
      "a": null,
      "k": 194800,
      "r": null,
@@ -1154,6 +1217,13 @@
      "k": null,
      "r": 214080,
      "q": null
+    },
+    {
+     "t": "2026-06-17T06:00:10.795Z",
+     "a": null,
+     "k": null,
+     "r": 214080,
+     "q": null
     }
    ],
    "urls": {
@@ -1259,6 +1329,13 @@
     },
     {
      "t": "2026-06-16T22:00:09.084Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-17T06:00:10.795Z",
      "a": null,
      "k": null,
      "r": null,
@@ -1372,6 +1449,13 @@
      "k": 170000,
      "r": 87780,
      "q": null
+    },
+    {
+     "t": "2026-06-17T06:00:10.795Z",
+     "a": 170000,
+     "k": 170000,
+     "r": 87780,
+     "q": null
     }
    ],
    "urls": {
@@ -1477,6 +1561,13 @@
     },
     {
      "t": "2026-06-16T22:00:09.084Z",
+     "a": null,
+     "k": null,
+     "r": 102000,
+     "q": 102000
+    },
+    {
+     "t": "2026-06-17T06:00:10.795Z",
      "a": null,
      "k": null,
      "r": 102000,
@@ -1590,6 +1681,13 @@
      "k": 229000,
      "r": null,
      "q": null
+    },
+    {
+     "t": "2026-06-17T06:00:10.795Z",
+     "a": null,
+     "k": 229000,
+     "r": null,
+     "q": null
     }
    ],
    "urls": {
@@ -1699,12 +1797,19 @@
      "k": null,
      "r": null,
      "q": null
+    },
+    {
+     "t": "2026-06-17T06:00:10.795Z",
+     "a": null,
+     "k": null,
+     "r": 232110,
+     "q": null
     }
    ],
    "urls": {
     "a": "https://www.amazon.co.jp/%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-TH-55LZ2000-%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%A2%E3%83%AC%E3%82%A4%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC%E6%90%AD%E8%BC%89-360%E7%AB%8B%E4%BD%93%E9%9F%B3%E9%9F%BF%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-%E8%BB%A2%E5%80%92%E9%98%B2%E6%AD%A2%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/dp/B09Z26FCRG",
     "k": "https://kakaku.com/item/K0001439974/",
-    "r": null,
+    "r": "https://item.rakuten.co.jp/bearhomes/2024-07-19-1214/",
     "q": "https://www.qoo10.jp/s/?keyword=TH-55LZ2000"
    },
    "kakakuUrl": "https://kakaku.com/item/K0001439974/"
@@ -1804,6 +1909,13 @@
     },
     {
      "t": "2026-06-16T22:00:09.084Z",
+     "a": null,
+     "k": null,
+     "r": 98280,
+     "q": null
+    },
+    {
+     "t": "2026-06-17T06:00:10.795Z",
      "a": null,
      "k": null,
      "r": 98280,
@@ -1917,6 +2029,13 @@
      "k": 230500,
      "r": null,
      "q": null
+    },
+    {
+     "t": "2026-06-17T06:00:10.795Z",
+     "a": null,
+     "k": 230500,
+     "r": null,
+     "q": null
     }
    ],
    "urls": {
@@ -2022,6 +2141,13 @@
     },
     {
      "t": "2026-06-16T22:00:09.084Z",
+     "a": null,
+     "k": 170000,
+     "r": 134400,
+     "q": null
+    },
+    {
+     "t": "2026-06-17T06:00:10.795Z",
      "a": null,
      "k": 170000,
      "r": 134400,
@@ -2135,6 +2261,13 @@
      "k": null,
      "r": 244570,
      "q": null
+    },
+    {
+     "t": "2026-06-17T06:00:10.795Z",
+     "a": null,
+     "k": null,
+     "r": 244570,
+     "q": null
     }
    ],
    "urls": {
@@ -2144,9 +2277,78 @@
     "q": "https://www.qoo10.jp/s/?keyword=4T-C55DQ2"
    },
    "kakakuUrl": "https://kakaku.com/item/K0001382591/"
+  },
+  "55X8900N": {
+   "model": "55X8900N",
+   "brand": "REGZA",
+   "title": "REGZA 55インチ 有機EL 55X8900N スマートテレビ Dolby Atmos対応 2024年モデル",
+   "urls": {
+    "a": "https://www.amazon.co.jp/REGZA-55X8900N-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%86%E3%83%AC%E3%83%93-Atmos%E5%AF%BE%E5%BF%9C-2024%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B0CZR7RH97",
+    "k": "https://kakaku.com/item/K0001616670/",
+    "r": "https://item.rakuten.co.jp/jtus/552004s/",
+    "q": "https://www.qoo10.jp/s/?keyword=55X8900N"
+   },
+   "history": [
+    {
+     "t": "2026-06-17T06:00:10.795Z",
+     "a": 170000,
+     "k": 159799,
+     "r": 124800,
+     "q": 171984
+    }
+   ],
+   "kakakuUrl": "https://kakaku.com/item/K0001616670/"
   }
  },
  "news": [
+  {
+   "title": "【Amazon】プライムデーが7月11日からスタート。iPhone、iPad、Fire TV Stick、ザバスのプロテインなどが対象に。プライム会員向けの年に一度のビッグセール",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xX1hsblZrTVpCS2ZTSzYwZ2Rwa2FJOTltODQtM05LcHBUSXh4WHBCa0o3SmRwYXR4bm1xMUtlVmU0dGpxWk1wY2U1M2plUDZuYTRWa2dZTQ?oc=5",
+   "source": "ファミ通",
+   "pubDate": "Tue, 16 Jun 2026 06:50:00 GMT",
+   "q": "Amazon プライムデー テレビ",
+   "firstSeen": "2026-06-17T06:00:10.795Z"
+  },
+  {
+   "title": "Amazonの2026年プライムデーは7/10〜13に開催、テレビCMに人気グループ「HANA」を起用",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQblNpeExFam93VTY0T3QxeXFlS0p1NEtoeUhXZGFscDNQY1VlcHlZd3FCMzdWUkdGRnROT1k0a2xyRk5rbjdlRGNraXlhNVR5NmtWQUpGNjJwamFKOUVWRFFQcDRqbnRoZUdRd0pHREN3TEFra25iWjRqcXZUeUpJcHl3eXhSdU5xZnZGNGVWYTdMVWJtQ0NWRm9xQXlEZ0prMUlzUzFTZDJqR2lmazgyQTVjTTLSAbQBQVVfeXFMUG5TaXhMRWpvd1U2NE90MXlxZUtKdTRLaHlIV2RhbHAzUGNVZXB5WXdxQjM3VlJHRkZ0Tk9ZNGtsckZOa243ZURja2l5YTVUeTZrVkFKRjYycGphSjlFVkRRUHA0am50aGVHUXdKR0RDd0xBa2tuYlo0anF2VHlKSXB5d3l4UnVOcWZ2RjRlVmE3TFVibUNDVkZvcUF5RGdKazFJc1MxU2QyakdpZms4MkE1Y00y?oc=5",
+   "source": "ｄメニューニュース",
+   "pubDate": "Tue, 16 Jun 2026 22:13:34 GMT",
+   "q": "Amazon プライムデー テレビ",
+   "firstSeen": "2026-06-17T06:00:10.795Z"
+  },
+  {
+   "title": "Amazonの2026年プライムデーは7/10～13に開催、テレビCMに人気グループ「HANA」を起用（ネットショップ担当者フォーラム）",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV092R3ZxRnJNeEVRR1FpbmxRd2g5dnE3dldBcVVRUXNIZEJfNTNmcElycFBtUDZwVzlzX1FLZUJ2LThXOHVuQk9MejREM2dmaGpGUzNGN0RtWExLN2NVc1lHbnlkcDVlQ2hkQzZILUxDeHE2T2lOVG5nOGVQeDZod2FRUV9JeVlGQVU3RGtn?oc=5",
+   "source": "Yahoo!ニュース",
+   "pubDate": "Tue, 16 Jun 2026 22:39:39 GMT",
+   "q": "Amazon プライムデー テレビ",
+   "firstSeen": "2026-06-17T06:00:10.795Z"
+  },
+  {
+   "title": "テレビ放送で話題のシャトレーゼ！まさかの値下げ！「新作シュークリーム」がおいしすぎる！珈琲解説付",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcjNJbzU3dXg2UUJqUFllUGhnaWhpTndMc1pMZ2M3YWVSZHktSVdaRTB5bW9SdFkxRmE1WDR0cUhFeGpJMHZDczd3RWg1d19lVGRUYy1IUFpzdzQ4bGZDelVreFhQNW85M2RFWHBCMkFaWnlRaVI0RHRldnNwMXd2Sl9aaWtUb185?oc=5",
+   "source": "Yahoo!ニュース",
+   "pubDate": "Sun, 11 Jan 2026 08:00:00 GMT",
+   "q": "テレビ 値下げ",
+   "firstSeen": "2026-06-17T06:00:10.795Z"
+  },
+  {
+   "title": "【米価】販売店は値下げを決断　他店との価格競争も《新潟》",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsN0VkU2pfWGpVeW40MjNUV0NFc0JpVW5pQlpsdW9EWWtScmZHRV81Y3RQM3lfWFJheGRQc2ZlMHJkVG42cVRqZ2tLOEVlVm9JZWo0ME80dTZVc2JKRTdGcUFQbWVCSkZvZU45ZFZHNTJwREh0UUpLTkViN1ZUd9IBgwFBVV95cUxOYi11Qjc0NGJOTVlFd0dkMVZGVkVreGlEWHZxMUNQSmUwRFJTUDdrVy1WWFZPYlVjRmFTa3V1d0UwN2JuOXlNZTg1a2ZpeDBIT2FkQzdFU1A2cXRIX0NJYTA5RmdIaFhjbDJISEdvdWprYkVaVEdCd0dmNXVITFI2emFybw?oc=5",
+   "source": "ｄメニューニュース",
+   "pubDate": "Wed, 10 Jun 2026 12:00:00 GMT",
+   "q": "テレビ 値下げ",
+   "firstSeen": "2026-06-17T06:00:10.795Z"
+  },
+  {
+   "title": "【有機ELレグザ半額】ゲーム特化したハイグレードモデル『REGZA 55X8900R』が18万円引きで登場《楽天スーパーセール》",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YSGh0Ylp2Sm1CWUlmaHk5ZUlCQ3hZWVRpOXlxZTh3T0Q3Ti1hTm55MkhaUzN4dlFaZzlDQnNkNF8xc1gta2lvblQtZTUyOXJZWk1nWDhsa1F1Zw?oc=5",
+   "source": "電撃オンライン",
+   "pubDate": "Fri, 06 Mar 2026 08:00:00 GMT",
+   "q": "有機EL テレビ セール",
+   "firstSeen": "2026-06-17T06:00:10.795Z"
+  },
   {
    "title": "50インチテレビのおすすめ5選 多機能＆高画質のmini LEDに注目【2026年】",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vcHN2dk9QSG45NnAxNFJPQnNTMmlmMzBUbUtjcUN3Q3FxY2NUcWZmNHE5bDItQ0VFQmo2VTNsaG9oQVZSdV9HWjNGZTZ6czZQSFE?oc=5",
