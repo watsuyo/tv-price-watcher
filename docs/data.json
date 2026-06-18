@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-06-18T06:00:12.273Z",
+ "updatedAt": "2026-06-18T22:00:09.733Z",
  "products": {
   "OLED55B5PJA": {
    "model": "OLED55B5PJA",
@@ -118,6 +118,13 @@
     {
      "t": "2026-06-18T06:00:12.273Z",
      "a": 152525,
+     "k": null,
+     "r": 159800,
+     "q": 159800
+    },
+    {
+     "t": "2026-06-18T22:00:09.733Z",
+     "a": 152672,
      "k": null,
      "r": 159800,
      "q": 159800
@@ -246,6 +253,13 @@
     },
     {
      "t": "2026-06-18T06:00:12.273Z",
+     "a": 157000,
+     "k": 157000,
+     "r": 165000,
+     "q": 214000
+    },
+    {
+     "t": "2026-06-18T22:00:09.733Z",
      "a": 157000,
      "k": 157000,
      "r": 165000,
@@ -380,6 +394,13 @@
      "k": 129800,
      "r": 139500,
      "q": 134050
+    },
+    {
+     "t": "2026-06-18T22:00:09.733Z",
+     "a": 138105,
+     "k": 129800,
+     "r": 139500,
+     "q": 134050
     }
    ],
    "urls": {
@@ -506,6 +527,13 @@
     },
     {
      "t": "2026-06-18T06:00:12.273Z",
+     "a": 139490,
+     "k": 127499,
+     "r": 116580,
+     "q": null
+    },
+    {
+     "t": "2026-06-18T22:00:09.733Z",
      "a": 139490,
      "k": 127499,
      "r": 116580,
@@ -640,6 +668,13 @@
      "k": 146000,
      "r": 99000,
      "q": null
+    },
+    {
+     "t": "2026-06-18T22:00:09.733Z",
+     "a": null,
+     "k": 146000,
+     "r": 99000,
+     "q": null
     }
    ],
    "urls": {
@@ -766,6 +801,13 @@
     },
     {
      "t": "2026-06-18T06:00:12.273Z",
+     "a": null,
+     "k": null,
+     "r": 118800,
+     "q": null
+    },
+    {
+     "t": "2026-06-18T22:00:09.733Z",
      "a": null,
      "k": null,
      "r": 118800,
@@ -900,6 +942,13 @@
      "k": 239800,
      "r": 142440,
      "q": null
+    },
+    {
+     "t": "2026-06-18T22:00:09.733Z",
+     "a": null,
+     "k": 230000,
+     "r": 142440,
+     "q": null
     }
    ],
    "urls": {
@@ -1030,6 +1079,13 @@
      "k": 198000,
      "r": 201978,
      "q": null
+    },
+    {
+     "t": "2026-06-18T22:00:09.733Z",
+     "a": null,
+     "k": 198000,
+     "r": 201978,
+     "q": null
     }
    ],
    "urls": {
@@ -1156,6 +1212,13 @@
     },
     {
      "t": "2026-06-18T06:00:12.273Z",
+     "a": null,
+     "k": 194800,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-18T22:00:09.733Z",
      "a": null,
      "k": 194800,
      "r": null,
@@ -1364,6 +1427,13 @@
      "k": null,
      "r": 214080,
      "q": null
+    },
+    {
+     "t": "2026-06-18T22:00:09.733Z",
+     "a": null,
+     "k": null,
+     "r": 214080,
+     "q": null
     }
    ],
    "urls": {
@@ -1490,6 +1560,13 @@
     },
     {
      "t": "2026-06-18T06:00:12.273Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-18T22:00:09.733Z",
      "a": null,
      "k": null,
      "r": null,
@@ -1624,6 +1701,13 @@
      "k": 170000,
      "r": 87780,
      "q": null
+    },
+    {
+     "t": "2026-06-18T22:00:09.733Z",
+     "a": 170000,
+     "k": 170000,
+     "r": 87780,
+     "q": null
     }
    ],
    "urls": {
@@ -1754,6 +1838,13 @@
      "k": null,
      "r": 102000,
      "q": 102000
+    },
+    {
+     "t": "2026-06-18T22:00:09.733Z",
+     "a": null,
+     "k": null,
+     "r": 102000,
+     "q": 121081
     }
    ],
    "urls": {
@@ -1880,6 +1971,13 @@
     },
     {
      "t": "2026-06-18T06:00:12.273Z",
+     "a": null,
+     "k": 229000,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-18T22:00:09.733Z",
      "a": null,
      "k": 229000,
      "r": null,
@@ -2014,6 +2112,13 @@
      "k": null,
      "r": 232110,
      "q": null
+    },
+    {
+     "t": "2026-06-18T22:00:09.733Z",
+     "a": null,
+     "k": null,
+     "r": 232110,
+     "q": null
     }
    ],
    "urls": {
@@ -2140,6 +2245,13 @@
     },
     {
      "t": "2026-06-18T06:00:12.273Z",
+     "a": null,
+     "k": null,
+     "r": 98280,
+     "q": null
+    },
+    {
+     "t": "2026-06-18T22:00:09.733Z",
      "a": null,
      "k": null,
      "r": 98280,
@@ -2274,6 +2386,13 @@
      "k": 230500,
      "r": null,
      "q": null
+    },
+    {
+     "t": "2026-06-18T22:00:09.733Z",
+     "a": null,
+     "k": 230500,
+     "r": null,
+     "q": null
     }
    ],
    "urls": {
@@ -2400,6 +2519,13 @@
     },
     {
      "t": "2026-06-18T06:00:12.273Z",
+     "a": null,
+     "k": 170000,
+     "r": 134400,
+     "q": null
+    },
+    {
+     "t": "2026-06-18T22:00:09.733Z",
      "a": null,
      "k": 170000,
      "r": 134400,
@@ -2534,6 +2660,13 @@
      "k": null,
      "r": 244570,
      "q": null
+    },
+    {
+     "t": "2026-06-18T22:00:09.733Z",
+     "a": null,
+     "k": null,
+     "r": 244570,
+     "q": null
     }
    ],
    "urls": {
@@ -2575,12 +2708,43 @@
      "k": 159799,
      "r": 124800,
      "q": 165027
+    },
+    {
+     "t": "2026-06-18T22:00:09.733Z",
+     "a": 170000,
+     "k": 159799,
+     "r": 124800,
+     "q": 165027
     }
    ],
    "kakakuUrl": "https://kakaku.com/item/K0001616670/"
   }
  },
  "news": [
+  {
+   "title": "HANAが出演するAmazon「プライムデー」テレビCM「ワクワク広がる」編より。 [画像ギャラリー 27/28]",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wNjVGbmQ2eHhvRnpCMGFsNVdaQUFvQjk0UXQ2dldPOXRfQXRDckUxemRaMnI3bk14RVJneFVPZ3diMXFzUmNLY1hSVGdhQXBrb0hvVFFydGIxb0dtblNhTTZ3?oc=5",
+   "source": "ナタリー",
+   "pubDate": "Tue, 16 Jun 2026 07:37:26 GMT",
+   "q": "Amazon プライムデー テレビ",
+   "firstSeen": "2026-06-18T22:00:09.733Z"
+  },
+  {
+   "title": "【保存版】2026年Amazonセール完全攻略ガイド｜次回の大型セールはいつ？お得な買い方＆年間スケジュールまとめ",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94QzFkcXVCMDBNOWYwQjhEQU1BTm8tdWRvaXNhUFQ4TG9zamFDR1ZMVU02aGg1ZHg5OFNVbG9ZU2tGd3RudjZrZGJhRDM0cEU?oc=5",
+   "source": "アプリブ",
+   "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
+   "q": "Amazon プライムデー テレビ",
+   "firstSeen": "2026-06-18T22:00:09.733Z"
+  },
+  {
+   "title": "【2026年】Fire TV Stickはプライムデーでいくらになる？ 一番安く買えるAmazonのセールは？",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tV29oRTViSGRxRUltdkVFMmNfcnNwRHNlcHZWd1dpcUZuN1U4S0pEdy15ZnB4VjV6SVN3XzU2T29CdF9mX3g1MnhFSXRqWFk?oc=5",
+   "source": "アプリブ",
+   "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
+   "q": "テレビ 値下げ",
+   "firstSeen": "2026-06-18T22:00:09.733Z"
+  },
   {
    "title": "2026年のAmazonプライムデーは7月10日から、どんな家電がセールになる？",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sODE2NEQtVTdRdnZEZExpRUZraWVKUklTV19YSVRZSWhmYmpIUnhEZWdrck9pYUxRSEVCd0JlRkF6VHBXbFJWd1ZBdGFZaDhOUVVpU2VQWFVyS1hz?oc=5",
