@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-06-18T22:00:09.733Z",
+ "updatedAt": "2026-06-19T06:00:11.806Z",
  "products": {
   "OLED55B5PJA": {
    "model": "OLED55B5PJA",
@@ -124,6 +124,13 @@
     },
     {
      "t": "2026-06-18T22:00:09.733Z",
+     "a": 152672,
+     "k": null,
+     "r": 159800,
+     "q": 159800
+    },
+    {
+     "t": "2026-06-19T06:00:11.806Z",
      "a": 152672,
      "k": null,
      "r": 159800,
@@ -260,6 +267,13 @@
     },
     {
      "t": "2026-06-18T22:00:09.733Z",
+     "a": 157000,
+     "k": 157000,
+     "r": 165000,
+     "q": 214000
+    },
+    {
+     "t": "2026-06-19T06:00:11.806Z",
      "a": 157000,
      "k": 157000,
      "r": 165000,
@@ -401,6 +415,13 @@
      "k": 129800,
      "r": 139500,
      "q": 134050
+    },
+    {
+     "t": "2026-06-19T06:00:11.806Z",
+     "a": 138105,
+     "k": 129800,
+     "r": 139500,
+     "q": 134050
     }
    ],
    "urls": {
@@ -534,6 +555,13 @@
     },
     {
      "t": "2026-06-18T22:00:09.733Z",
+     "a": 139490,
+     "k": 127499,
+     "r": 116580,
+     "q": null
+    },
+    {
+     "t": "2026-06-19T06:00:11.806Z",
      "a": 139490,
      "k": 127499,
      "r": 116580,
@@ -675,6 +703,13 @@
      "k": 146000,
      "r": 99000,
      "q": null
+    },
+    {
+     "t": "2026-06-19T06:00:11.806Z",
+     "a": null,
+     "k": 146000,
+     "r": 99000,
+     "q": null
     }
    ],
    "urls": {
@@ -808,6 +843,13 @@
     },
     {
      "t": "2026-06-18T22:00:09.733Z",
+     "a": null,
+     "k": null,
+     "r": 118800,
+     "q": null
+    },
+    {
+     "t": "2026-06-19T06:00:11.806Z",
      "a": null,
      "k": null,
      "r": 118800,
@@ -949,6 +991,13 @@
      "k": 230000,
      "r": 142440,
      "q": null
+    },
+    {
+     "t": "2026-06-19T06:00:11.806Z",
+     "a": null,
+     "k": 230000,
+     "r": 142440,
+     "q": null
     }
    ],
    "urls": {
@@ -1086,6 +1135,13 @@
      "k": 198000,
      "r": 201978,
      "q": null
+    },
+    {
+     "t": "2026-06-19T06:00:11.806Z",
+     "a": null,
+     "k": 198000,
+     "r": 201978,
+     "q": null
     }
    ],
    "urls": {
@@ -1219,6 +1275,13 @@
     },
     {
      "t": "2026-06-18T22:00:09.733Z",
+     "a": null,
+     "k": 194800,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-19T06:00:11.806Z",
      "a": null,
      "k": 194800,
      "r": null,
@@ -1434,6 +1497,13 @@
      "k": null,
      "r": 214080,
      "q": null
+    },
+    {
+     "t": "2026-06-19T06:00:11.806Z",
+     "a": null,
+     "k": null,
+     "r": 214080,
+     "q": null
     }
    ],
    "urls": {
@@ -1567,6 +1637,13 @@
     },
     {
      "t": "2026-06-18T22:00:09.733Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-19T06:00:11.806Z",
      "a": null,
      "k": null,
      "r": null,
@@ -1708,6 +1785,13 @@
      "k": 170000,
      "r": 87780,
      "q": null
+    },
+    {
+     "t": "2026-06-19T06:00:11.806Z",
+     "a": 170000,
+     "k": 170000,
+     "r": 87780,
+     "q": null
     }
    ],
    "urls": {
@@ -1841,6 +1925,13 @@
     },
     {
      "t": "2026-06-18T22:00:09.733Z",
+     "a": null,
+     "k": null,
+     "r": 102000,
+     "q": 121081
+    },
+    {
+     "t": "2026-06-19T06:00:11.806Z",
      "a": null,
      "k": null,
      "r": 102000,
@@ -1982,6 +2073,13 @@
      "k": 229000,
      "r": null,
      "q": null
+    },
+    {
+     "t": "2026-06-19T06:00:11.806Z",
+     "a": null,
+     "k": 229000,
+     "r": null,
+     "q": null
     }
    ],
    "urls": {
@@ -2115,6 +2213,13 @@
     },
     {
      "t": "2026-06-18T22:00:09.733Z",
+     "a": null,
+     "k": null,
+     "r": 232110,
+     "q": null
+    },
+    {
+     "t": "2026-06-19T06:00:11.806Z",
      "a": null,
      "k": null,
      "r": 232110,
@@ -2256,6 +2361,13 @@
      "k": null,
      "r": 98280,
      "q": null
+    },
+    {
+     "t": "2026-06-19T06:00:11.806Z",
+     "a": null,
+     "k": null,
+     "r": 98280,
+     "q": null
     }
    ],
    "urls": {
@@ -2389,6 +2501,13 @@
     },
     {
      "t": "2026-06-18T22:00:09.733Z",
+     "a": null,
+     "k": 230500,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-19T06:00:11.806Z",
      "a": null,
      "k": 230500,
      "r": null,
@@ -2530,6 +2649,13 @@
      "k": 170000,
      "r": 134400,
      "q": null
+    },
+    {
+     "t": "2026-06-19T06:00:11.806Z",
+     "a": null,
+     "k": 170000,
+     "r": 134400,
+     "q": null
     }
    ],
    "urls": {
@@ -2667,6 +2793,13 @@
      "k": null,
      "r": 244570,
      "q": null
+    },
+    {
+     "t": "2026-06-19T06:00:11.806Z",
+     "a": null,
+     "k": null,
+     "r": 244570,
+     "q": null
     }
    ],
    "urls": {
@@ -2715,12 +2848,35 @@
      "k": 159799,
      "r": 124800,
      "q": 165027
+    },
+    {
+     "t": "2026-06-19T06:00:11.806Z",
+     "a": 170000,
+     "k": 159799,
+     "r": 124800,
+     "q": 165027
     }
    ],
    "kakakuUrl": "https://kakaku.com/item/K0001616670/"
   }
  },
  "news": [
+  {
+   "title": "アマゾン、プライム会員限定の「プライムデー」を前に「Amazon プライムデー ステージ」を実施 (ネットショップ担当者フォーラム)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdFZHMC1xOUl0NUVhSGxfU3U4YWdSQ0NtQ1hhQ1M5S2g4S2pSLU5odVEzZExEM2dOeWxKVVVJd09FQXRYaThGQXBTMEFPdUh0ZHF6bmZYNzV4aFYtdHRlN0ZjWUZvRmR2VUlWYldqYXdRR09OUGcyUG5KSFNsWWRQcGI1eFNFQml0Z0tmT0p3?oc=5",
+   "source": "Yahoo!ニュース",
+   "pubDate": "Wed, 17 Jun 2026 22:01:36 GMT",
+   "q": "Amazon プライムデー テレビ",
+   "firstSeen": "2026-06-19T06:00:11.806Z"
+  },
+  {
+   "title": "【Amazonセール】LGの有機ELモデル・UHDモデルの4K スマートテレビがお買い得価格で登場",
+   "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxPRVFHb29IazJMNTlCRmhodnBDSXNUdVd2Skk3b3pkbTF2OGxLb0gya0M4WWhGZEEtZ1RaUDlTTkt6RWc4cHhIcmpfeTUyZmEzZHJJcVNMbWIyeXFGOUlTVmN6VFkwM3ZtMzl0a2xqb3R4OWZja19XNkdXZXkyZUVxYXFBX2JtYXVnekl0X2x6RG5iaFhpR3ZDX2JqdnFhbWJyYjhKUGZLTkFCcTNZYl9USnVSQUlFLXRaQ1Jma29BaWpiVkNoeHRFbTBvWUhQU3FOX1JwaWlUZmp6ZWlmZjZucjlfSnlqcjZMZnU2RVczTmoxM0VnR254YTJuVm9qeXUzX1NRQlcxalpaNXh5c2hkbXllTWF4RHRrTHVRRUF4UWhZRFF5RGJMMFc4R3ZtZGZrYl9UMEJKOTZvN1c4QlU0Q3gyaXFuMG1WMkRuNER0U1k1d0Q2cl9SbjJRYmVqdGRpbHZVZHdUYVprY3VEaGpyQXRTTHNzVkE1T2F6WWpSWDBMdzdXWTRzcWJiRnltbF9IWnhXWkUtMDFyVDlhRDJHOHladGhBMF9mX1RtMjEtMDNzSC01aVVQcTJjX09KNjNraklRRVpwTUtfWkZBQ3hHb3hjN1ZFdlBSdzRsbkRR?oc=5",
+   "source": "MSN",
+   "pubDate": "Mon, 15 Jun 2026 22:58:22 GMT",
+   "q": "有機EL テレビ セール",
+   "firstSeen": "2026-06-19T06:00:11.806Z"
+  },
   {
    "title": "HANAが出演するAmazon「プライムデー」テレビCM「ワクワク広がる」編より。 [画像ギャラリー 27/28]",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wNjVGbmQ2eHhvRnpCMGFsNVdaQUFvQjk0UXQ2dldPOXRfQXRDckUxemRaMnI3bk14RVJneFVPZ3diMXFzUmNLY1hSVGdhQXBrb0hvVFFydGIxb0dtblNhTTZ3?oc=5",
