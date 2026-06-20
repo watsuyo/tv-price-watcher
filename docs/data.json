@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-06-20T06:00:10.814Z",
+ "updatedAt": "2026-06-20T22:00:14.724Z",
  "products": {
   "OLED55B5PJA": {
    "model": "OLED55B5PJA",
@@ -145,6 +145,13 @@
     },
     {
      "t": "2026-06-20T06:00:10.814Z",
+     "a": 152672,
+     "k": null,
+     "r": 159800,
+     "q": 159800
+    },
+    {
+     "t": "2026-06-20T22:00:14.724Z",
      "a": 152672,
      "k": null,
      "r": 159800,
@@ -302,6 +309,13 @@
     },
     {
      "t": "2026-06-20T06:00:10.814Z",
+     "a": 157000,
+     "k": 157000,
+     "r": 165000,
+     "q": 214000
+    },
+    {
+     "t": "2026-06-20T22:00:14.724Z",
      "a": 157000,
      "k": 157000,
      "r": 165000,
@@ -464,12 +478,19 @@
      "k": 129800,
      "r": 139500,
      "q": 134050
+    },
+    {
+     "t": "2026-06-20T22:00:14.724Z",
+     "a": 138105,
+     "k": 129800,
+     "r": 139500,
+     "q": 134050
     }
    ],
    "urls": {
     "a": "https://www.amazon.co.jp/4T-C55GQ3-Google-%E5%A4%96%E4%BB%98%E3%81%91HDD2%E7%95%AA%E7%B5%84%E5%90%8C%E6%99%82%E9%8C%B2%E7%94%BB%E5%AF%BE%E5%BF%9C-2024%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB-Wi-Fi6%E5%AF%BE%E5%BF%9C/dp/B0DVC1Z9XK",
     "k": "https://kakaku.com/item/K0001648977/",
-    "r": "https://item.rakuten.co.jp/mttstore/4tc55gq3-4550556127097/",
+    "r": "https://item.rakuten.co.jp/e-cutestyle/p000000885424/",
     "q": "https://www.qoo10.jp/s/?keyword=4T-C55GQ3"
    },
    "kakakuUrl": "https://kakaku.com/item/K0001648977/"
@@ -618,6 +639,13 @@
     },
     {
      "t": "2026-06-20T06:00:10.814Z",
+     "a": 139490,
+     "k": 127499,
+     "r": 116580,
+     "q": null
+    },
+    {
+     "t": "2026-06-20T22:00:14.724Z",
      "a": 139490,
      "k": 127499,
      "r": 116580,
@@ -780,6 +808,13 @@
      "k": 146000,
      "r": 99000,
      "q": null
+    },
+    {
+     "t": "2026-06-20T22:00:14.724Z",
+     "a": null,
+     "k": 146000,
+     "r": 99000,
+     "q": null
     }
    ],
    "urls": {
@@ -934,6 +969,13 @@
     },
     {
      "t": "2026-06-20T06:00:10.814Z",
+     "a": null,
+     "k": null,
+     "r": 118800,
+     "q": null
+    },
+    {
+     "t": "2026-06-20T22:00:14.724Z",
      "a": null,
      "k": null,
      "r": 118800,
@@ -1096,6 +1138,13 @@
      "k": 230000,
      "r": 137240,
      "q": null
+    },
+    {
+     "t": "2026-06-20T22:00:14.724Z",
+     "a": null,
+     "k": 230000,
+     "r": 137240,
+     "q": null
     }
    ],
    "urls": {
@@ -1254,6 +1303,13 @@
      "k": 198000,
      "r": 201978,
      "q": null
+    },
+    {
+     "t": "2026-06-20T22:00:14.724Z",
+     "a": null,
+     "k": 198000,
+     "r": 201978,
+     "q": null
     }
    ],
    "urls": {
@@ -1408,6 +1464,13 @@
     },
     {
      "t": "2026-06-20T06:00:10.814Z",
+     "a": null,
+     "k": 194800,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-20T22:00:14.724Z",
      "a": null,
      "k": 194800,
      "r": null,
@@ -1644,6 +1707,13 @@
      "k": null,
      "r": 214080,
      "q": null
+    },
+    {
+     "t": "2026-06-20T22:00:14.724Z",
+     "a": null,
+     "k": null,
+     "r": 214080,
+     "q": null
     }
    ],
    "urls": {
@@ -1798,6 +1868,13 @@
     },
     {
      "t": "2026-06-20T06:00:10.814Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-20T22:00:14.724Z",
      "a": null,
      "k": null,
      "r": null,
@@ -1960,6 +2037,13 @@
      "k": 170000,
      "r": 87780,
      "q": null
+    },
+    {
+     "t": "2026-06-20T22:00:14.724Z",
+     "a": 170000,
+     "k": 170000,
+     "r": 87780,
+     "q": null
     }
    ],
    "urls": {
@@ -2114,6 +2198,13 @@
     },
     {
      "t": "2026-06-20T06:00:10.814Z",
+     "a": null,
+     "k": null,
+     "r": 102000,
+     "q": 121081
+    },
+    {
+     "t": "2026-06-20T22:00:14.724Z",
      "a": null,
      "k": null,
      "r": 102000,
@@ -2276,6 +2367,13 @@
      "k": 229000,
      "r": null,
      "q": null
+    },
+    {
+     "t": "2026-06-20T22:00:14.724Z",
+     "a": null,
+     "k": 229000,
+     "r": null,
+     "q": null
     }
    ],
    "urls": {
@@ -2434,6 +2532,13 @@
      "k": null,
      "r": 232110,
      "q": null
+    },
+    {
+     "t": "2026-06-20T22:00:14.724Z",
+     "a": null,
+     "k": null,
+     "r": 232110,
+     "q": null
     }
    ],
    "urls": {
@@ -2588,6 +2693,13 @@
     },
     {
      "t": "2026-06-20T06:00:10.814Z",
+     "a": null,
+     "k": null,
+     "r": 98280,
+     "q": null
+    },
+    {
+     "t": "2026-06-20T22:00:14.724Z",
      "a": null,
      "k": null,
      "r": 98280,
@@ -2894,12 +3006,19 @@
      "k": 170000,
      "r": 134400,
      "q": null
+    },
+    {
+     "t": "2026-06-20T22:00:14.724Z",
+     "a": null,
+     "k": 170000,
+     "r": 134400,
+     "q": null
     }
    ],
    "urls": {
     "a": "https://www.amazon.co.jp/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97-4T-C55DQ1-%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC%E5%86%85%E8%94%B5-Android-2021%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B092VFB924",
     "k": "https://kakaku.com/item/K0001350647/",
-    "r": "https://item.rakuten.co.jp/cocohouse/nb092vfb924/",
+    "r": "https://item.rakuten.co.jp/iinex/nb092vfb924/",
     "q": "https://www.qoo10.jp/s/?keyword=4T-C55DQ1"
    },
    "kakakuUrl": "https://kakaku.com/item/K0001350647/"
@@ -3052,6 +3171,13 @@
      "k": null,
      "r": 244570,
      "q": null
+    },
+    {
+     "t": "2026-06-20T22:00:14.724Z",
+     "a": null,
+     "k": null,
+     "r": 244570,
+     "q": null
     }
    ],
    "urls": {
@@ -3121,6 +3247,13 @@
      "k": 159800,
      "r": 124800,
      "q": 165027
+    },
+    {
+     "t": "2026-06-20T22:00:14.724Z",
+     "a": 170000,
+     "k": 159800,
+     "r": 124800,
+     "q": 165027
     }
    ],
    "kakakuUrl": "https://kakaku.com/item/K0001616670/"
@@ -3142,12 +3275,27 @@
      "k": null,
      "r": 159180,
      "q": null
+    },
+    {
+     "t": "2026-06-20T22:00:14.724Z",
+     "a": null,
+     "k": null,
+     "r": 159180,
+     "q": null
     }
    ],
    "kakakuUrl": "https://kakaku.com/item/K0001357205/"
   }
  },
  "news": [
+  {
+   "title": "「Amazonプライムデー」7/10開始、7/7から先行セール。「iPhone Air」「AirPods Pro 3」もセールに（PHILE WEB）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vQ3Nuem9XYXI2X09BTWdYVU5kdFZ0U09HLWpUOFYxLTR4NVBrTzlla0JpeGNsVS0yREVlbTVOVmQ2aW1iU1RaMXhxeWd1eGh5SnZnOFlDaHhhdFg1Xzk2alhsNXBoZF9QRVBQR1FJWUJnNV93ak5JV0R3dXlIWWc?oc=5",
+   "source": "Yahoo!ニュース",
+   "pubDate": "Tue, 16 Jun 2026 08:52:48 GMT",
+   "q": "Amazon プライムデー テレビ",
+   "firstSeen": "2026-06-20T22:00:14.724Z"
+  },
   {
    "title": "【6月19日更新】Apple TV 4Kはどこで買う？最安値は？安く買える５つの方法を徹底解説",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iNklVOEFjNlJxUURuMEFQUGdyWl8wSm5YV3RETHhiR2UyNGxKbDZBUVg0ZnpYMTRuYXFkb0RvSUdHVmpkNVVER0VvWW1ZdDJSZk92NmNkX01tTFprMVZ3WVpwWXBoYXpXR09ub3hnX1I?oc=5",
