@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-06-22T22:00:14.369Z",
+ "updatedAt": "2026-06-23T06:00:12.331Z",
  "products": {
   "OLED55B5PJA": {
    "model": "OLED55B5PJA",
@@ -180,6 +180,13 @@
     },
     {
      "t": "2026-06-22T22:00:14.369Z",
+     "a": 152525,
+     "k": null,
+     "r": 159800,
+     "q": 159800
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
      "a": 152525,
      "k": null,
      "r": 159800,
@@ -376,6 +383,13 @@
      "k": 157299,
      "r": 165000,
      "q": 214000
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
+     "a": 157000,
+     "k": 157298,
+     "r": 165000,
+     "q": 214000
     }
    ],
    "urls": {
@@ -565,6 +579,13 @@
     },
     {
      "t": "2026-06-22T22:00:14.369Z",
+     "a": 138105,
+     "k": 129800,
+     "r": 139500,
+     "q": 134050
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
      "a": 138105,
      "k": 129800,
      "r": 139500,
@@ -762,6 +783,13 @@
      "k": 127499,
      "r": 115280,
      "q": null
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
+     "a": 139490,
+     "k": 127499,
+     "r": 115280,
+     "q": null
     }
    ],
    "urls": {
@@ -951,6 +979,13 @@
     },
     {
      "t": "2026-06-22T22:00:14.369Z",
+     "a": null,
+     "k": 146000,
+     "r": 99000,
+     "q": null
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
      "a": null,
      "k": 146000,
      "r": 99000,
@@ -1148,6 +1183,13 @@
      "k": 245000,
      "r": 118800,
      "q": null
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
+     "a": null,
+     "k": 245000,
+     "r": 118800,
+     "q": null
     }
    ],
    "urls": {
@@ -1337,6 +1379,13 @@
     },
     {
      "t": "2026-06-22T22:00:14.369Z",
+     "a": null,
+     "k": 230000,
+     "r": 137240,
+     "q": null
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
      "a": null,
      "k": 230000,
      "r": 137240,
@@ -1534,6 +1583,13 @@
      "k": 198000,
      "r": 201978,
      "q": null
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
+     "a": null,
+     "k": 198000,
+     "r": 201978,
+     "q": null
     }
    ],
    "urls": {
@@ -1723,6 +1779,13 @@
     },
     {
      "t": "2026-06-22T22:00:14.369Z",
+     "a": null,
+     "k": 194800,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
      "a": null,
      "k": 194800,
      "r": null,
@@ -1994,6 +2057,13 @@
      "k": 229800,
      "r": 214080,
      "q": null
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
+     "a": null,
+     "k": 229800,
+     "r": 214080,
+     "q": null
     }
    ],
    "urls": {
@@ -2183,6 +2253,13 @@
     },
     {
      "t": "2026-06-22T22:00:14.369Z",
+     "a": null,
+     "k": null,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
      "a": null,
      "k": null,
      "r": null,
@@ -2380,6 +2457,13 @@
      "k": 170000,
      "r": 87780,
      "q": null
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
+     "a": 170000,
+     "k": 170000,
+     "r": 87780,
+     "q": null
     }
    ],
    "urls": {
@@ -2569,6 +2653,13 @@
     },
     {
      "t": "2026-06-22T22:00:14.369Z",
+     "a": null,
+     "k": null,
+     "r": 102000,
+     "q": 121081
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
      "a": null,
      "k": null,
      "r": 102000,
@@ -2766,6 +2857,13 @@
      "k": 249000,
      "r": null,
      "q": null
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
+     "a": null,
+     "k": 249000,
+     "r": null,
+     "q": null
     }
    ],
    "urls": {
@@ -2955,6 +3053,13 @@
     },
     {
      "t": "2026-06-22T22:00:14.369Z",
+     "a": null,
+     "k": 250000,
+     "r": 232110,
+     "q": null
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
      "a": null,
      "k": 250000,
      "r": 232110,
@@ -3152,6 +3257,13 @@
      "k": null,
      "r": 98280,
      "q": null
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
+     "a": null,
+     "k": null,
+     "r": 98280,
+     "q": null
     }
    ],
    "urls": {
@@ -3313,6 +3425,13 @@
     },
     {
      "t": "2026-06-22T22:00:14.369Z",
+     "a": null,
+     "k": 230500,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
      "a": null,
      "k": 230500,
      "r": null,
@@ -3510,6 +3629,13 @@
      "k": 170000,
      "r": 134400,
      "q": null
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
+     "a": null,
+     "k": 170000,
+     "r": 134400,
+     "q": null
     }
    ],
    "urls": {
@@ -3703,6 +3829,13 @@
      "k": null,
      "r": 244570,
      "q": null
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
+     "a": null,
+     "k": null,
+     "r": 244570,
+     "q": null
     }
    ],
    "urls": {
@@ -3807,6 +3940,13 @@
      "k": 159800,
      "r": 124800,
      "q": 165027
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
+     "a": 168500,
+     "k": 159800,
+     "r": 124800,
+     "q": 165027
     }
    ],
    "kakakuUrl": "https://kakaku.com/item/K0001616670/"
@@ -3863,6 +4003,13 @@
      "k": null,
      "r": 159180,
      "q": null
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
+     "a": null,
+     "k": null,
+     "r": 159180,
+     "q": null
     }
    ],
    "kakakuUrl": "https://kakaku.com/item/K0001357205/"
@@ -3898,6 +4045,13 @@
      "k": 99800,
      "r": 96368,
      "q": null
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
+     "a": 154195,
+     "k": 99800,
+     "r": 96368,
+     "q": null
     }
    ],
    "kakakuUrl": "https://kakaku.com/item/K0001630123/"
@@ -3919,12 +4073,59 @@
      "k": null,
      "r": 88920,
      "q": null
+    },
+    {
+     "t": "2026-06-23T06:00:12.331Z",
+     "a": null,
+     "k": null,
+     "r": 88920,
+     "q": null
     }
    ],
    "kakakuUrl": "https://kakaku.com/item/K0001260326/"
   }
  },
  "news": [
+  {
+   "title": "Amazonプライムデー、セール対象商品が明らかに 新型Fire TV Stickは46％オフ",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XZjE0WGQwb3d4RVlQSHZiLTA5WTVyS2pDajI0Rng2VnlVVVQxa1Y4YmpTOGRscHc3X3BPbDdoSnYzWTBYVG5JbkpoZzZLWlVNVUlQWXlHZjZPTHRZNGlMZDd0cThhZlhQQ0RGWlVXcDduYUVaTDl5RnktYw?oc=5",
+   "source": "ニコニコニュース",
+   "pubDate": "Tue, 23 Jun 2026 03:12:03 GMT",
+   "q": "Amazon プライムデー テレビ",
+   "firstSeen": "2026-06-23T06:00:12.331Z"
+  },
+  {
+   "title": "Amazonデバイスのプライムデー2026セール価格、もう分かってます",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDckJYV0g5Sk1LTWp0WXJBZmxnekxXdE4yMDFBSFJZbVA3QVpLdTZUaVNGV19xM1BPVFR1dXhuRkE1c0xiTHZnTTc5NHAxTXBVWU5N?oc=5",
+   "source": "ゴリミー",
+   "pubDate": "Tue, 23 Jun 2026 00:31:15 GMT",
+   "q": "Amazon プライムデー テレビ",
+   "firstSeen": "2026-06-23T06:00:12.331Z"
+  },
+  {
+   "title": "スリムな「Fire TV Stick HD」が3780円。Amazonプライムデーセール価格事前公開",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83SmNSV1JqdTFLeThoXzhYOFRTdmZHYUpUM25tOWh6SGxscWFILWtyUlBWRlJBdjAwX1M5WTVvd01zN0xxem01akQwQ0treVdDcGZjQjVpeHphNWxMeGhFSGpKWQ?oc=5",
+   "source": "AV Watch",
+   "pubDate": "Tue, 23 Jun 2026 02:30:32 GMT",
+   "q": "Amazon プライムデー テレビ",
+   "firstSeen": "2026-06-23T06:00:12.331Z"
+  },
+  {
+   "title": "AIで値下げ“適正価格”に挑む 買い物の常識を変える新システム - tv-tokyo.co.jp",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE12czA5OGY2MzBjWGJJY1pzblVfT3dYZ1lyYTVUelVILXNDakh4NHM1LVVPZUtlbGV0andmeUt1b09ZcC1VQXFWMzZMeS1SOENubVZSQVR2aGl3UFNFencwQXJJRS1fZ1RIcjQydjJKTXVBdw?oc=5",
+   "source": "tv-tokyo.co.jp",
+   "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT",
+   "q": "テレビ 値下げ",
+   "firstSeen": "2026-06-23T06:00:12.331Z"
+  },
+  {
+   "title": "プライムデーは“値引き5900円以上”で元を取る！ おすすめAmazonデバイスのセール価格はこちら",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95WlpCU1hjb2pLZDU5R3hLWncyOVlmcjhlVGhqRm5MVmdHRHlWalFUZ214S3VnRDByaDZFUUJGVjlTMUdHY1lvdHAwaUVKSXJHVzFjWWx3Y2ZlV01QeENfTDYxWHV1VHRqTXhYTjNvOEcxVmN5?oc=5",
+   "source": "イザ！",
+   "pubDate": "Mon, 22 Jun 2026 04:38:33 GMT",
+   "q": "テレビ 値下げ",
+   "firstSeen": "2026-06-23T06:00:12.331Z"
+  },
   {
    "title": "Prime Dayセール：Samsung 77\" 4K OLED Smart TVが$1,098に値下げ",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMVZaa0F6MEczYzN5Ml9NYjYzSDd6XzMxYllYbXJQclBfUjBJWU5jbWE0b1d3Zk9XZm9IVEV1azV4U1I0MXBqRFlkQzBYVWl0bFdubmlYc3I1MnpkcWI5bElrOTc4djdZY0hJdTdDRG54aXBEYXFBR25wLWk0T2VZU1lGZFJreHM2WEM3X3VOYV9JeWNHRTlialRNUFBWOXhLVzVDSFNEY0YyN0FVTEhqenQ3ZlhQNjQyaU5obi0tVjZPR3NBX2x2NjJ1ZVFBRHlGSWVPZg?oc=5",
