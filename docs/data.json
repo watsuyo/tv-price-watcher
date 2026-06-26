@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-06-25T06:00:10.892Z",
+ "updatedAt": "2026-06-26T06:00:13.636Z",
  "products": {
   "OLED55B5PJA": {
    "model": "OLED55B5PJA",
@@ -215,6 +215,13 @@
     },
     {
      "t": "2026-06-25T06:00:10.892Z",
+     "a": 152525,
+     "k": null,
+     "r": 159800,
+     "q": 159800
+    },
+    {
+     "t": "2026-06-26T06:00:13.636Z",
      "a": 152525,
      "k": null,
      "r": 159800,
@@ -442,6 +449,13 @@
     },
     {
      "t": "2026-06-25T06:00:10.892Z",
+     "a": 157000,
+     "k": 157299,
+     "r": 165000,
+     "q": 214000
+    },
+    {
+     "t": "2026-06-26T06:00:13.636Z",
      "a": 157000,
      "k": 157299,
      "r": 165000,
@@ -674,12 +688,19 @@
      "k": 129800,
      "r": 139500,
      "q": 134050
+    },
+    {
+     "t": "2026-06-26T06:00:13.636Z",
+     "a": 138105,
+     "k": 129800,
+     "r": 139500,
+     "q": 134050
     }
    ],
    "urls": {
     "a": "https://www.amazon.co.jp/4T-C55GQ3-Google-%E5%A4%96%E4%BB%98%E3%81%91HDD2%E7%95%AA%E7%B5%84%E5%90%8C%E6%99%82%E9%8C%B2%E7%94%BB%E5%AF%BE%E5%BF%9C-2024%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB-Wi-Fi6%E5%AF%BE%E5%BF%9C/dp/B0DVC1Z9XK",
     "k": "https://kakaku.com/item/K0001648977/",
-    "r": "https://item.rakuten.co.jp/mttstore/4tc55gq3-4550556127097/",
+    "r": "https://item.rakuten.co.jp/e-cutestyle/p000000885424/",
     "q": "https://www.qoo10.jp/s/?keyword=4T-C55GQ3"
    },
    "kakakuUrl": "https://kakaku.com/item/K0001648977/"
@@ -898,6 +919,13 @@
     },
     {
      "t": "2026-06-25T06:00:10.892Z",
+     "a": 139490,
+     "k": 127499,
+     "r": 115280,
+     "q": null
+    },
+    {
+     "t": "2026-06-26T06:00:13.636Z",
      "a": 139490,
      "k": 127499,
      "r": 115280,
@@ -1130,6 +1158,13 @@
      "k": 178000,
      "r": 99000,
      "q": null
+    },
+    {
+     "t": "2026-06-26T06:00:13.636Z",
+     "a": null,
+     "k": 178000,
+     "r": 99000,
+     "q": null
     }
    ],
    "urls": {
@@ -1354,6 +1389,13 @@
     },
     {
      "t": "2026-06-25T06:00:10.892Z",
+     "a": null,
+     "k": 245000,
+     "r": 118800,
+     "q": null
+    },
+    {
+     "t": "2026-06-26T06:00:13.636Z",
      "a": null,
      "k": 245000,
      "r": 118800,
@@ -1586,6 +1628,13 @@
      "k": 230000,
      "r": 137240,
      "q": null
+    },
+    {
+     "t": "2026-06-26T06:00:13.636Z",
+     "a": null,
+     "k": 230000,
+     "r": 137240,
+     "q": null
     }
    ],
    "urls": {
@@ -1814,6 +1863,13 @@
      "k": 198000,
      "r": 201978,
      "q": null
+    },
+    {
+     "t": "2026-06-26T06:00:13.636Z",
+     "a": null,
+     "k": 198000,
+     "r": 201978,
+     "q": null
     }
    ],
    "urls": {
@@ -2038,6 +2094,13 @@
     },
     {
      "t": "2026-06-25T06:00:10.892Z",
+     "a": null,
+     "k": 194800,
+     "r": null,
+     "q": null
+    },
+    {
+     "t": "2026-06-26T06:00:13.636Z",
      "a": null,
      "k": 194800,
      "r": null,
@@ -2347,6 +2410,13 @@
     },
     {
      "t": "2026-06-25T06:00:10.892Z",
+     "a": null,
+     "k": 229800,
+     "r": 214080,
+     "q": null
+    },
+    {
+     "t": "2026-06-26T06:00:13.636Z",
      "a": null,
      "k": 229800,
      "r": 214080,
@@ -2807,6 +2877,13 @@
      "k": 170000,
      "r": 87780,
      "q": null
+    },
+    {
+     "t": "2026-06-26T06:00:13.636Z",
+     "a": 170000,
+     "k": 170000,
+     "r": 87780,
+     "q": null
     }
    ],
    "urls": {
@@ -3031,6 +3108,13 @@
     },
     {
      "t": "2026-06-25T06:00:10.892Z",
+     "a": null,
+     "k": null,
+     "r": 168080,
+     "q": null
+    },
+    {
+     "t": "2026-06-26T06:00:13.636Z",
      "a": null,
      "k": null,
      "r": 168080,
@@ -3263,6 +3347,13 @@
      "k": 249000,
      "r": null,
      "q": null
+    },
+    {
+     "t": "2026-06-26T06:00:13.636Z",
+     "a": null,
+     "k": 239800,
+     "r": null,
+     "q": null
     }
    ],
    "urls": {
@@ -3487,6 +3578,13 @@
     },
     {
      "t": "2026-06-25T06:00:10.892Z",
+     "a": null,
+     "k": 250000,
+     "r": 227850,
+     "q": null
+    },
+    {
+     "t": "2026-06-26T06:00:13.636Z",
      "a": null,
      "k": 250000,
      "r": 227850,
@@ -3719,6 +3817,13 @@
      "k": null,
      "r": 98280,
      "q": null
+    },
+    {
+     "t": "2026-06-26T06:00:13.636Z",
+     "a": null,
+     "k": null,
+     "r": 98280,
+     "q": null
     }
    ],
    "urls": {
@@ -3918,6 +4023,13 @@
      "a": null,
      "k": 230500,
      "r": 222965,
+     "q": null
+    },
+    {
+     "t": "2026-06-26T06:00:13.636Z",
+     "a": null,
+     "k": 230500,
+     "r": null,
      "q": null
     }
    ],
@@ -4143,6 +4255,13 @@
     },
     {
      "t": "2026-06-25T06:00:10.892Z",
+     "a": null,
+     "k": 170000,
+     "r": 134400,
+     "q": null
+    },
+    {
+     "t": "2026-06-26T06:00:13.636Z",
      "a": null,
      "k": 170000,
      "r": 134400,
@@ -4375,6 +4494,13 @@
      "k": null,
      "r": 244570,
      "q": null
+    },
+    {
+     "t": "2026-06-26T06:00:13.636Z",
+     "a": null,
+     "k": null,
+     "r": 244570,
+     "q": null
     }
    ],
    "urls": {
@@ -4514,6 +4640,13 @@
      "k": 159800,
      "r": 124800,
      "q": 165027
+    },
+    {
+     "t": "2026-06-26T06:00:13.636Z",
+     "a": 168000,
+     "k": 163800,
+     "r": 124800,
+     "q": 169156
     }
    ],
    "kakakuUrl": "https://kakaku.com/item/K0001616670/"
@@ -4605,6 +4738,13 @@
      "k": null,
      "r": 159180,
      "q": null
+    },
+    {
+     "t": "2026-06-26T06:00:13.636Z",
+     "a": null,
+     "k": null,
+     "r": 206985,
+     "q": null
     }
    ],
    "kakakuUrl": "https://kakaku.com/item/K0001357205/"
@@ -4675,6 +4815,13 @@
      "k": 157440,
      "r": 96368,
      "q": null
+    },
+    {
+     "t": "2026-06-26T06:00:13.636Z",
+     "a": 157440,
+     "k": 157440,
+     "r": 96264,
+     "q": null
     }
    ],
    "kakakuUrl": "https://kakaku.com/item/K0001630123/"
@@ -4731,12 +4878,59 @@
      "k": null,
      "r": 88920,
      "q": null
+    },
+    {
+     "t": "2026-06-26T06:00:13.636Z",
+     "a": null,
+     "k": null,
+     "r": 88920,
+     "q": null
     }
    ],
    "kakakuUrl": "https://kakaku.com/item/K0001260326/"
   }
  },
  "news": [
+  {
+   "title": "【徹底比較】50インチテレビのおすすめ人気ランキング【2026年6月】",
+   "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE4xQnhIWmViaGZHNmVnRzl2SUdSSjhaYV9BdFlVVjFMZ3dXUGVYWE12WHF1djFXX1JNWnZiLVB3?oc=5",
+   "source": "マイベスト",
+   "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
+   "q": "4K テレビ 安く 買う",
+   "firstSeen": "2026-06-26T06:00:13.636Z"
+  },
+  {
+   "title": "新生活にもぴったり！ 5万円以下で買える「中～小型テレビ」 4選",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QRkNBNlYtRUhfMWctSjhEdjA4UUtDeEtNNE5TSVlmeUZESXAyaEVuMDF6cVRDbXlLODB0UVY5S2dqeWtEZTlmTHlFeVFIaEpBeFE?oc=5",
+   "source": "価格.comマガジン",
+   "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+   "q": "4K テレビ 安く 買う",
+   "firstSeen": "2026-06-26T06:00:13.636Z"
+  },
+  {
+   "title": "【最新】2026年のAmazonプライムデーはいつからいつまで？ 何が安くなる？ 先行セールからおすすめ商品まで",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yb2dnem42SFFiZUFlOU5aM2thNE5NYVVaWWpiVXk2ZFpqWEtJSGtIemJoS0hMcDUwNVpYYS1sQjRyUVduOGhMZV94NFFZeTQ?oc=5",
+   "source": "アプリブ",
+   "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT",
+   "q": "Amazon プライムデー テレビ",
+   "firstSeen": "2026-06-26T06:00:13.636Z"
+  },
+  {
+   "title": "【Amazonプライムデー2026】LGのゲーミングモニターやテレビがお買い得！ 対象製品を公開",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tTWFmOS10cWRZcEI1WV9XSWJ1R05hNU9SNzRxZFJwQS1sZU9LQXBJcmxScTMxbjlkRUxQZG5DMkNBdDhXb2hYSVpNZEhxNXRHRm9jZHpabjJWZ1lZSDR4SkZLVnhvQQ?oc=5",
+   "source": "GAME Watch",
+   "pubDate": "Fri, 26 Jun 2026 04:18:41 GMT",
+   "q": "Amazon プライムデー テレビ",
+   "firstSeen": "2026-06-26T06:00:13.636Z"
+  },
+  {
+   "title": "ユニデン、液晶テレビ全機種を期間/数量限定で値下げ －フルHD/デジタルチューナ内蔵の42型が219,800 円に",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41MThvdlNxOGViVDJyUGdlUkFUYXlGTl9JRkUwVmY5bl9yZFh4cDV5V1VCSVo5WThNSVlGR1FVSU1jeEtkWHBxbks5aWJwcUpYN1RXSGxjd0M5T0tvcjhoelJKSy1WQQ?oc=5",
+   "source": "AV Watch",
+   "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT",
+   "q": "テレビ 値下げ",
+   "firstSeen": "2026-06-26T06:00:13.636Z"
+  },
   {
    "title": "【6月25日更新】Apple TV 4Kはどこで買う？最安値は？安く買える５つの方法を徹底解説",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iNklVOEFjNlJxUURuMEFQUGdyWl8wSm5YV3RETHhiR2UyNGxKbDZBUVg0ZnpYMTRuYXFkb0RvSUdHVmpkNVVER0VvWW1ZdDJSZk92NmNkX01tTFprMVZ3WVpwWXBoYXpXR09ub3hnX1I?oc=5",
